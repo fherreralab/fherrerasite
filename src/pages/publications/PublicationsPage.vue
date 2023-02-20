@@ -1,8 +1,8 @@
 <template>
-    <div class="container text-center">
-        <h1>Publications</h1>
+    <TripleColumna>
+        <template v-slot:contenido>
+            <h1>Publications</h1>
 
-        <div class="container text-start">
             <ul>
                 <li><strong>2022</strong></li>
                 <li>[41] J. F. Triana and F. Herrera, <a href="https://arxiv.org/abs/2208.01217">Open quantum dynamics
@@ -28,13 +28,12 @@
                         Biopolymer Films for Biodegradable Packaging A Reference Dataset for Exploring the Limits of
                         Mechanical
                         Performance</a>, Materials 15, 3954, 2022. <a href="/assets/papers/2022 Agar Biopolymer Films for Biodegradable Packaging A Reference Dataset for 
-                Exploring the Limits of Mechanical Performance.pdf" download>[PDF]</a> +
+                        Exploring the Limits of Mechanical Performance.pdf" download>[PDF]</a> +
                     <a href="https://data.mendeley.com/datasets/nyz4y58jbt">[DATA].</a> <strong>Featured</strong> in
                     <a href="https://www.azom.com/news.aspx?newsID=59250">AzoM.com.</a>
                 </li>
                 <li>
-                    [38] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, <a
-                        href="https://arxiv.org/abs/2204.11832">Machine
+                    [38] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2204.11832">Machine
                         learning identification of organic compounds using visible light</a> , arXiv:2204.11832, 2022.
                     <a href="https://zenodo.org/record/6419971">[GitHub]</a>
                 </li>
@@ -45,8 +44,7 @@
                     DOI:10.26434/chemrxiv-2022-wb6vs, 2022.
                 </li>
                 <li>
-                    [36] F. Herrera and M. Litinskaya, <a
-                        href="https://aip.scitation.org/doi/10.1063/5.0075894">Ensembles
+                    [36] F. Herrera and M. Litinskaya, <a href="https://aip.scitation.org/doi/10.1063/5.0075894">Ensembles
                         of
                         single-molecule picocavities as nonlinear optical metamaterials</a> , J. Chem. Phys 156, 114702,
                     2022.
@@ -67,8 +65,7 @@
                         download>[PDF].</a>
                 </li>
                 <li>
-                    [34] J. Triana and F. Herrera, <a
-                        href="https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17">
+                    [34] J. Triana and F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac4a17">
                         Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at
                         mid-infrared frequencies</a> , New J. Phys. 24, 023008, 2022.
                     <a href="/assets/papers/2022 Ultrafast modulation of vibrational polaritons for controlling the quantum field statistics at mid-infrared frequencies.pdf"
@@ -170,8 +167,7 @@
                         href="/assets/papers/2019 Correlative Dark-Field and Photoluminescence Spectroscopy of Individual Plasmon−Molecule Hybrid Nanostructures in a Strong Coupling Regime.pdf">[PDF]</a>
                 </li>
                 <li>
-                    [23] F. Hernández and F. Herrera, <a
-                        href="https://aip.scitation.org/doi/10.1063/1.5121426">Multi-level
+                    [23] F. Hernández and F. Herrera, <a href="https://aip.scitation.org/doi/10.1063/1.5121426">Multi-level
                         quantum Rabi model for anharmonic vibrational polaritons</a>, J.
                     Chem. Phys. 151, 144116, 2019. <a
                         href="/assets/papers/2019 Multi-level quantum Rabi model for anharmonic vibrational polaritons.pdf"
@@ -288,8 +284,7 @@
                         chemistry
                         in molecular ensembles</a>, Phys. Rev. Lett. 116,
                     238301, 2016.
-                    <a href="/assets/papers/2016 Cavity-controlled chemistry in molecular ensembles.pdf"
-                        download>[PDF]</a>.
+                    <a href="/assets/papers/2016 Cavity-controlled chemistry in molecular ensembles.pdf" download>[PDF]</a>.
                     <strong>Selected as APS Editor’s Suggestion and Featured in APS Physics</strong>
                     <a href="https://physics.aps.org/articles/v9/s63">Synopsis</a>. <strong>Media coverage in</strong>
                     <a
@@ -316,8 +311,7 @@
                     [10] B. Zhu, J. Schachenmayer, M. Xu, F. Herrera, J. G. Restrepo, M. J. Holland, A. M. Rey,
                     <a href="http://iopscience.iop.org/article/10.1088/1367-2630/17/8/083063/meta"> Synchronization
                         of interacting quantum dipoles</a>, New J. Phys. 17, 083063, 2015.
-                    <a href="/assets/papers/2015 Synchronization of interacting quantum dipoles.pdf"
-                        download>[PDF]</a>
+                    <a href="/assets/papers/2015 Synchronization of interacting quantum dipoles.pdf" download>[PDF]</a>
                 </li>
                 <li>
                     <strong>2014 and Earlier</strong>
@@ -326,8 +320,7 @@
                     [9] F. Herrera, B. Peropadre, L. A. Pachon, S. Saikin, A. Aspuru-Guzik,
                     <a href="https://pubs.acs.org/doi/abs/10.1021/jz501905h">Quantum nonlinear optics with polar
                         J-aggregates in microcavities</a> , J. Phys. Chem. Lett. 5, 3708, 2014.
-                    <a href="/assets/papers/2014 Quantum nonlinear optics with polar J-aggregates.pdf"
-                        download>[PDF]</a>
+                    <a href="/assets/papers/2014 Quantum nonlinear optics with polar J-aggregates.pdf" download>[PDF]</a>
                 </li>
                 <li>
                     [8] F. Herrera, Y. Cao, S. Kais, K. B. Whaley,
@@ -361,12 +354,12 @@
                     [4] F. Herrera and R. V. Krems, <a
                         href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.84.051401">
                         Tunable Holstein model with cold polar molecules</a> , Phys. Rev. A 84, 051401(R), 2011.
-                    <a href="/assets/papers/2011 Tunable Holstein model with cold polar molecules.pdf"
-                        download>[PDF]</a>
+                    <a href="/assets/papers/2011 Tunable Holstein model with cold polar molecules.pdf" download>[PDF]</a>
                 </li>
                 <li>
                     [3] J. Perez-Rıos, F. Herrera, R. V. Krems, <a
-                        href="http://iopscience.iop.org/1367-2630/12/10/103007/">External field control of collective
+                        href="http://iopscience.iop.org/1367-2630/12/10/103007/">External
+                        field control of collective
                         spin
                         excitations in an optical lattice of 2Σ molecules</a>, New. J. Phys. 12, 103007, 2010.
                     <a href="/assets/papers/2010 External field control of collective spin excitations in an optical lattice of 2-sigma molecules.pdf"
@@ -388,11 +381,15 @@
                 </li>
 
             </ul>
-        </div>
-
-    </div>
-
+        </template>
+    </TripleColumna>
 </template>
+
+<script setup>
+import TripleColumna from '@/components/TripleColumna.vue';
+
+
+</script>
 
 <style scoped>
 ul {
@@ -403,7 +400,6 @@ li {
     margin: 10px;
 }
 
-a{
+a {
     text-decoration: none;
-}
-</style>
+}</style>

@@ -96,6 +96,46 @@ const iniciarGroupNews = () => {
             date: "Nov 1, 2020",
             name: 'WelcomeThulasiBikku',
         },
+        {
+            title: "Simón Paiva successfully defends his undergrad thesis",
+            date: "Jul 24, 2020",
+            name: 'SimonPaivaUndergradThesis',
+        },
+        {
+            title: "Jonathan Sepúlveda successfully defends his master thesis",
+            date: "Jul 21, 2020",
+            name: 'JonathanSepulvedaDefensMasterThesis',
+        },
+        {
+            title: "Vanessa Olaya successfully defends her master thesis",
+            date: "Apr 4, 2020",
+            name: 'VanessaOlayaDefensMasterThesis',
+        },
+        {
+            title: "We welcome Katy Aruachan as the first PhD student in our group",
+            date: "Mar 16, 2020",
+            name: 'KatyArauchanJoins',
+        },
+        {
+            title: "Postdoctoral opening on Machine Learning for MOF Discovery and Quantum Technology",
+            date: "Mar 15, 2020",
+            name: 'PostDocOpeningMOFDiscovery',
+        },
+        {
+            title: "Shanavas Shajahan returns to Periyar University after a successfull PhD visit in our group",
+            date: "Mar 12, 2020",
+            name: 'ShavanasShajahanReturns',
+        },
+        {
+            title: "Johan Triana and Federico Hernández awarded prestigious Fondecyt Postdoctoral Fellowship 2020",
+            date: "Dec 16, 2019",
+            name: 'JohanFedericoAwardedFondecytPostdoc',
+        },
+        {
+            title: "Federico Hernández receives PhD Thesis Prize",
+            date: "Nov 10, 2019",
+            name: 'FedericoHernandezReceivesPrize',
+        },
     ];
 }
 

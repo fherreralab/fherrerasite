@@ -19,15 +19,24 @@ import JonathanSepulveda from './pages/group_news/news/farewell/JonathanSepulved
 import MqtSubmission from './pages/group_news/news/congrats/MqtSubmission.vue';
 import FelipeEditorialAdvisoryBoard from './pages/group_news/news/congrats/FelipeEditorialAdvisoryBoard.vue';
 import MolecularPolariton from './pages/group_news/news/congrats/MolecularPolariton.vue';
+import JohanFedericoAwardedFondecytPostdoc from './pages/group_news/news/congrats/JohanFedericoAwardedFondecytPostdoc.vue';
+import FedericoHernandezReceivesPrize from './pages/group_news/news/congrats/FedericoHernandezReceivesPrize.vue';
 
 import FelipeFondecytGrant from './pages/group_news/news/grants/FelipeFondecytGrant.vue';
 
 import MelissaJoins from './pages/group_news/news/welcome/MelissaJoins.vue';
 import BastianJoins from './pages/group_news/news/welcome/BastianJoins.vue';
 import WelcomeThulasiBikku from './pages/group_news/news/welcome/WelcomeThulasiBikku.vue';
+import KatyArauchanJoins from './pages/group_news/news/welcome/KatyArauchanJoins.vue';
+import ShavanasShajahanReturns from './pages/group_news/news/welcome/ShavanasShajahanReturns.vue';
 
 import GastonDefendsMasterThesis from './pages/group_news/news/graduation/GastonDefendsMasterThesis.vue';
 import FelipeDefendsMasterThesis from './pages/group_news/news/graduation/FelipeDefendsMasterThesis.vue';
+import SimonPaivaUndergradThesis from './pages/group_news/news/graduation/SimonPaivaUndergradThesis.vue';
+import JonathanSepulvedaDefensMasterThesis from './pages/group_news/news/graduation/JonathanSepulvedaDefensMasterThesis.vue';
+import VanessaOlayaDefensMasterThesis from './pages/group_news/news/graduation/VanessaOlayaDefensMasterThesis.vue';
+
+import PostDocOpeningMOFDiscovery from './pages/group_news/news/jobs/PostDocOpeningMOFDiscovery.vue';
 
 
 const routes = [
@@ -149,6 +158,46 @@ const routes = [
         path: '/welcome-2020-11-01-Dr-Thulasi-Bikku-joins-our-group-as-a-postdoc',
         name: 'WelcomeThulasiBikku',
         component: WelcomeThulasiBikku
+    },
+    {
+        path: '/graduation-2020-07-24-Simón-Paiva-graduates-in-Engineering-Physics',
+        name: 'SimonPaivaUndergradThesis',
+        component: SimonPaivaUndergradThesis
+    },
+    {
+        path: '/graduation-2020-07-21-Jonathan-Sepulveda-defends-his-MSc-thesis-in-physics',
+        name: 'JonathanSepulvedaDefensMasterThesis',
+        component: JonathanSepulvedaDefensMasterThesis
+    },
+    {
+        path: '/graduation-2020-04-04-Vanessa-Olaya-receives-her-MSc-degree-in-physics',
+        name: 'VanessaOlayaDefensMasterThesis',
+        component: VanessaOlayaDefensMasterThesis
+    },
+    {
+        path: '/welcome-2020-03-16-Katy-Aruachan-becomes-the-first-PhD-student-in-our-group',
+        name: 'KatyArauchanJoins',
+        component: KatyArauchanJoins
+    },
+    {
+        path: '/jobs-2020-03-15-Postdoctoral-opening-on-machine-learning-for-MOF-discovery',
+        name: 'PostDocOpeningMOFDiscovery',
+        component: PostDocOpeningMOFDiscovery
+    },
+    {
+        path: '/welcome-2020-03-12-Shanavas-returns-to-Periyar-University-after-PhD-visit',
+        name: 'ShavanasShajahanReturns',
+        component: ShavanasShajahanReturns
+    },
+    {
+        path: '/congrats-2019-12-16-Federico-and-Johan-win-Fondecyt-postdoctoral-fellowship',
+        name: 'JohanFedericoAwardedFondecytPostdoc',
+        component: JohanFedericoAwardedFondecytPostdoc
+    },
+    {
+        path: '/congrats-2019-11-10-Dr-Federico-Hernandez-receives-thesis-prize',
+        name: 'FedericoHernandezReceivesPrize',
+        component: FedericoHernandezReceivesPrize
     },
 
     {
