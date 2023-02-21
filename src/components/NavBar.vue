@@ -14,16 +14,28 @@
                         Publications
                     </router-link>
                     <li class="nav-item">
-                        <a class="nav-link text-color" href="/people">People</a>
+                        <router-link class="nav-link text-color" to="/people">
+                            People
+                        </router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-color" href="/openings">Openings</a>
+
+                        <router-link class="nav-link text-color" to="/openings">
+                            Openings
+                        </router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-color" href="/news">Group News</a>
+
+                        <router-link class="nav-link text-color" to="/news">
+                            Group News
+                        </router-link>
+
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-color" href="/resources">Resources</a>
+
+                        <router-link class="nav-link text-color" to="/group_news">
+                            Resources
+                        </router-link>
                     </li>
                 </ul>
             </div>
