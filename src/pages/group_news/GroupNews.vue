@@ -136,6 +136,81 @@ const iniciarGroupNews = () => {
             date: "Nov 10, 2019",
             name: 'FedericoHernandezReceivesPrize',
         },
+        {
+            title: "Dr. Johan Triana joins our group as a postdoctoral researcher",
+            date: "Jun 10, 2019",
+            name: 'JohanTrianaJoins',
+        },
+        {
+            title: "We welcome PhD student visitor Mauricio Arias from UdeC",
+            date: "Jun 1, 2019",
+            name: 'MauricioAriasJoins',
+        },
+        {
+            title: "Iván Jara successfully defends his undergrad thesis",
+            date: "May 29, 2019",
+            name: 'IvanJaraDefendsUndergradThesis',
+        },
+        {
+            title: "Gastón González successfully defends his undergrad thesis",
+            date: "May 3, 2019",
+            name: 'GastonGonzalezDefendsUndergradThesis',
+        },
+        {
+            title: "Felipe Recabal successfully defends his undergrad thesis",
+            date: "Jan 22, 2019",
+            name: 'FelipeRecabalDefendsUndergradThesis',
+        },
+        {
+            title: "Dr. Federico Hernández joins our group as a postdoctoral researcher",
+            date: "Jan 5, 2019",
+            name: 'DrFedericoHernandezJoins',
+        },
+        {
+            title: "Diego Carvajal successfully defends his undergrad thesis",
+            date: "Dec 1, 2018",
+            name: 'DiegoCarvajalDefendsUndergradThesis',
+        },
+        {
+            title: "Ignacio Chi receives Fullbright-Conicyt Scholarship for PhD studies",
+            date: "Oct 6, 2018",
+            name: 'IgnacioChiReceivesFullBrightConycit',
+        },
+        {
+            title: "1st Workshop on Molecular Quantum Technology will happen in Chile!",
+            date: "Aug 30, 2018",
+            name: 'FirstWorkshopMQT',
+        },
+        {
+            title: "We welcome Ruben Fritz as our first postdoc",
+            date: "Aug 16, 2018",
+            name: 'RubenFritzJoins',
+        },
+        {
+            title: "Postdoctoral Opening in Computational Materials Discovery for Quantum Cryptography",
+            date: "May 11, 2018",
+            name: 'PostDocOpeningQuantumCryptography',
+        },
+        {
+            title: "Postdoctoral Opening in Quantum Dynamics of Organic Materials in Strongly-Coupled Cavities",
+            date: "May 10, 2018",
+            name: 'PostDocOpeningOrganicMaterialsSCS',
+        },
+        {
+            title: "Jonathan Sepúlveda successfully defends his undergrad thesis",
+            date: "May 3, 2018",
+            name: 'JonathanSepulvedaDefendsUndergradThesis',
+        },
+        {
+            title: "Felipe becomes a co-founder of new Millenium Institute",
+            date: "Jan 5, 2018",
+            name: 'FelipeCoFounderMilenniumInstitute',
+        },
+        {
+            title: "Felipe wins REDES Travel Grant from Conicyt",
+            date: "Dec 25, 2017",
+            name: 'FelipeWinsRedesTravelGrant',
+        },
     ];
 }
 

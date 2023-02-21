@@ -21,22 +21,39 @@ import FelipeEditorialAdvisoryBoard from './pages/group_news/news/congrats/Felip
 import MolecularPolariton from './pages/group_news/news/congrats/MolecularPolariton.vue';
 import JohanFedericoAwardedFondecytPostdoc from './pages/group_news/news/congrats/JohanFedericoAwardedFondecytPostdoc.vue';
 import FedericoHernandezReceivesPrize from './pages/group_news/news/congrats/FedericoHernandezReceivesPrize.vue';
+import IgnacioChiReceivesFullBrightConycit from './pages/group_news/news/congrats/IgnacioChiReceivesFullBrightConycit.vue';
 
 import FelipeFondecytGrant from './pages/group_news/news/grants/FelipeFondecytGrant.vue';
+import FelipeCoFounderMilenniumInstitute from './pages/group_news/news/grants/FelipeCoFounderMilenniumInstitute.vue';
+import FelipeWinsRegularGrantConicyt from './pages/group_news/news/grants/FelipeWinsRegularGrantConicyt.vue';
+import FelipeWinsRedesTravelGrant from './pages/group_news/news/grants/FelipeWinsRedesTravelGrant.vue';
 
 import MelissaJoins from './pages/group_news/news/welcome/MelissaJoins.vue';
 import BastianJoins from './pages/group_news/news/welcome/BastianJoins.vue';
 import WelcomeThulasiBikku from './pages/group_news/news/welcome/WelcomeThulasiBikku.vue';
 import KatyArauchanJoins from './pages/group_news/news/welcome/KatyArauchanJoins.vue';
 import ShavanasShajahanReturns from './pages/group_news/news/welcome/ShavanasShajahanReturns.vue';
+import JohanTrianaJoins from './pages/group_news/news/welcome/JohanTrianaJoins.vue';
+import MauricioAriasJoins from './pages/group_news/news/welcome/MauricioAriasJoins.vue';
+import DrFedericoHernandezJoins from './pages/group_news/news/welcome/DrFedericoHernandezJoins.vue';
+import RubenFritzJoins from './pages/group_news/news/welcome/RubenFritzJoins.vue';
 
 import GastonDefendsMasterThesis from './pages/group_news/news/graduation/GastonDefendsMasterThesis.vue';
 import FelipeDefendsMasterThesis from './pages/group_news/news/graduation/FelipeDefendsMasterThesis.vue';
 import SimonPaivaUndergradThesis from './pages/group_news/news/graduation/SimonPaivaUndergradThesis.vue';
 import JonathanSepulvedaDefensMasterThesis from './pages/group_news/news/graduation/JonathanSepulvedaDefensMasterThesis.vue';
 import VanessaOlayaDefensMasterThesis from './pages/group_news/news/graduation/VanessaOlayaDefensMasterThesis.vue';
+import IvanJaraDefendsUndergradThesis from './pages/group_news/news/graduation/IvanJaraDefendsUndergradThesis.vue';
+import GastonGonzalezDefendsUndergradThesis from './pages/group_news/news/graduation/GastonGonzalezDefendsUndergradThesis.vue';
+import FelipeRecabalDefendsUndergradThesis from './pages/group_news/news/graduation/FelipeRecabalDefendsUndergradThesis.vue';
+import DiegoCarvajalDefendsUndergradThesis from './pages/group_news/news/graduation/DiegoCarvajalDefendsUndergradThesis.vue';
+import JonathanSepulvedaDefendsUndergradThesis from './pages/group_news/news/graduation/JonathanSepulvedaDefendsUndergradThesis.vue';
 
 import PostDocOpeningMOFDiscovery from './pages/group_news/news/jobs/PostDocOpeningMOFDiscovery.vue';
+import PostDocOpeningQuantumCryptography from './pages/group_news/news/jobs/PostDocOpeningQuantumCryptography.vue';
+import PostDocOpeningOrganicMaterialsSCS from './pages/group_news/news/jobs/PostDocOpeningOrganicMaterialsSCS.vue';
+
+import FirstWorkshopMQT from './pages/group_news/news/events/FirstWorkshopMQT.vue';
 
 
 const routes = [
@@ -198,6 +215,86 @@ const routes = [
         path: '/congrats-2019-11-10-Dr-Federico-Hernandez-receives-thesis-prize',
         name: 'FedericoHernandezReceivesPrize',
         component: FedericoHernandezReceivesPrize
+    },
+    {
+        path: '/welcome-2019-06/10-Dr-Johan-Triana-joins-our-group-as-a-postdoc',
+        name: 'JohanTrianaJoins',
+        component: JohanTrianaJoins
+    },
+    {
+        path: '/welcome-2019-06-01-Mauricio-Arias-visits-our-group-from-UdeC',
+        name: 'MauricioAriasJoins',
+        component: MauricioAriasJoins
+    },
+    {
+        path: '/graduation-2019-05-29-Ivan-Jara-receives-his-BSc-in-Engineering-Physics-copy',
+        name: 'IvanJaraDefendsUndergradThesis',
+        component: IvanJaraDefendsUndergradThesis
+    },
+    {
+        path: '/graduation-2019-05-03-Gaston-Gonzalez-receives-his-BSc-in-Engineering-Physics',
+        name: 'GastonGonzalezDefendsUndergradThesis',
+        component: GastonGonzalezDefendsUndergradThesis
+    },
+    {
+        path: '/graduation-2019-01-22-Felipe-Recabal-receives-his-BSc-in-Engineering-Physics',
+        name: 'FelipeRecabalDefendsUndergradThesis',
+        component: FelipeRecabalDefendsUndergradThesis
+    },
+    {
+        path: '/welcome-2019-01-05-Dr-Federico-Hernández-joins-our-group-as-a-postdoc',
+        name: 'DrFedericoHernandezJoins',
+        component: DrFedericoHernandezJoins
+    },
+    {
+        path: '/graduation-2018-12-01-Diego-Carvajal-obtains-his-BSc-in-Engineering-Mathematics',
+        name: 'DiegoCarvajalDefendsUndergradThesis',
+        component: DiegoCarvajalDefendsUndergradThesis
+    },
+    {
+        path: '/congrats-2018-10-06-Ignacio-Chi-receives-Fullbright-Scholarship-for-PhD-in-the-US',
+        name: 'IgnacioChiReceivesFullBrightConycit',
+        component: IgnacioChiReceivesFullBrightConycit
+    },
+    {
+        path: '/events-2018-08-30-1st-Workshop-on-Molecular-Quantum-Technology-will-happen-in-Chile',
+        name: 'FirstWorkshopMQT',
+        component: FirstWorkshopMQT
+    },
+    {
+        path: '/welcome-2018-08-16-Ruben-Fritz-joins-our-group',
+        name: 'RubenFritzJoins',
+        component: RubenFritzJoins
+    },
+    {
+        path: '/jobs/2018/05/11/postdoc-position-compchem',
+        name: 'PostDocOpeningQuantumCryptography',
+        component: PostDocOpeningQuantumCryptography
+    },
+    {
+        path: '/jobs-2018-05-10-postdoc-position-organicQED',
+        name: 'PostDocOpeningOrganicMaterialsSCS',
+        component: PostDocOpeningOrganicMaterialsSCS
+    },
+    {
+        path: '/graduation-2018-05-03-Jonathan-receives-his-BSc-in-Engineering-Physics',
+        name: 'JonathanSepulvedaDefendsUndergradThesis',
+        component: JonathanSepulvedaDefendsUndergradThesis
+    },
+    {
+        path: '/grants-2018-01-05-Millenium-Institute-for-Research-in-Optics-gets-funded',
+        name: 'FelipeCoFounderMilenniumInstitute',
+        component: FelipeCoFounderMilenniumInstitute
+    },
+    {
+        path: '/grants-2017-12-31-Felipe-Herrera-wins-Fondecyt-Regular-Grant',
+        name: 'FelipeWinsRegularGrantConicyt',
+        component: FelipeWinsRegularGrantConicyt
+    },
+    {
+        path: '/grants-2017-12-25-Felipe-Herrera-wins-PCI-Travel-Grant',
+        name: 'FelipeWinsRedesTravelGrant',
+        component: FelipeWinsRedesTravelGrant
     },
 
     {
