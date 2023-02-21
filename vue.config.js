@@ -1,10 +1,6 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/usach-quantum/'
-    : '/',
-    
-
+  publicPath: './',
 
   transpileDependencies: true,
   // accept pdf files
