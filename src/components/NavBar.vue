@@ -33,7 +33,7 @@
                     </li>
                     <li class="nav-item">
 
-                        <router-link class="nav-link text-color" to="/group_news">
+                        <router-link class="nav-link text-color" to="/resources">
                             Resources
                         </router-link>
                     </li>
