@@ -26,22 +26,6 @@
 </template>
 
 <script setup>
-import { onMounted } from 'vue';
-
-
-const trackGoogleScreenView = () => {
-    if (typeof window !== 'undefined') {
-        window.gtag('event', 'page_view', {
-            page_location: window.location.href,
-            page_path: window.location.pathname,
-            page_title: this.$route.name
-        });
-    }
-}
-
-onMounted(() => {
-    trackGoogleScreenView();
-});
 
 /*
     Cómo agregar una publicación:
