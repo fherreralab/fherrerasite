@@ -26,6 +26,18 @@
 </template>
 
 <script setup>
+import { onMounted } from "vue";
+import { useGtag } from "vue-gtag-next";
+
+const { pageview } = useGtag()
+const track = () => {
+    pageview({ page_path: "/" });
+};
+
+
+onMounted(() => {
+    track();
+});
 
 /*
     Cómo agregar una publicación:

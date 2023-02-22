@@ -26,8 +26,23 @@
 <script setup>
 import GroupNewsLink from '@/components/GroupNewsLink.vue';
 import { ref } from 'vue';
+import { onMounted } from "vue";
+import { useGtag } from "vue-gtag-next";
+
+const { pageview } = useGtag()
+const track = () => {
+    console.log('en news')
+    pageview({ page_path: "/news" });
+};
+
+
+onMounted(() => {
+    track();
+});
 
 const groupNews = ref([]);
+
+
 
 const iniciarGroupNews = () => {
     groupNews.value = [

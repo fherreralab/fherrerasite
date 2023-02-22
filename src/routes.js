@@ -54,6 +54,7 @@ import PostDocOpeningQuantumCryptography from './pages/group_news/news/jobs/Post
 import PostDocOpeningOrganicMaterialsSCS from './pages/group_news/news/jobs/PostDocOpeningOrganicMaterialsSCS.vue';
 
 import FirstWorkshopMQT from './pages/group_news/news/events/FirstWorkshopMQT.vue';
+import { trackRouter } from 'vue-gtag-next';
 
 
 const routes = [
@@ -303,8 +304,12 @@ const routes = [
     }
 ];
 
-export const router = createRouter({
+const router = createRouter({
     // 4. Provide the history implementation to use. We are using the hash history for simplicity here.
     history: createWebHistory(),
     routes, // short for `routes: routes`
 });
+
+trackRouter(router);
+
+export default router;
