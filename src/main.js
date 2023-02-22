@@ -1,4 +1,4 @@
-import { VueGtag } from 'vue-gtag';
+import VueGtag  from 'vue-gtag';
 
 import { createApp } from 'vue'
 import App from './App.vue'
@@ -26,7 +26,18 @@ const app = createApp(App);
 app.use(router);
 
 app.use(VueGtag, {
-    config: {id: "G-0Q809JJD34"}
+    appName: "My App",
+    pageTrackerScreenviewEnabled: true,
+    config: { id: "G-0Q809JJD34" },
+    onBeforeTrack() {
+        console.log("before!");
+        // before!
+    },
+    onAfterTrack() {
+        console.log("after!");
+        // after!
+    }
+
 }, router);
 app.component('font-awesome-icon', FontAwesomeIcon);
 app.mount('#app');
