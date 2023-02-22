@@ -14,7 +14,7 @@ import { faUserSecret } from '@fortawesome/free-solid-svg-icons'
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons';
 
-import { gaInit } from 'public/gtag';
+import { gaInit } from '../public/gtag.js';
 
 gaInit();
 

@@ -26,6 +26,8 @@
 </template>
 
 <script setup>
+import { onMounted } from 'vue';
+
 
 const trackGoogleScreenView = () => {
     if (typeof window !== 'undefined') {

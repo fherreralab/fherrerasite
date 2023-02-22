@@ -15,6 +15,14 @@
   <script src="https://kit.fontawesome.com/b98b0da4d8.js" crossorigin="anonymous"></script>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-0Q809JJD34"></script>
+  <script>
+    export function gaInit() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', GA_MEASUREMENT_ID);
+    }
+  </script>
 </head>
 
 <body class="d-flex flex-column min-vh-100">
