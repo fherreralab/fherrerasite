@@ -28,6 +28,19 @@
 
 <script setup>
 
+const trackGoogleScreenView = () => {
+    if (typeof gtag === 'function') {
+        gtag('config', 'G-0Q809JJD34', {
+            'page_title': 'Home',
+            'page_path': '/'
+        });
+    }
+}
+
+onMounted(() => {
+    trackGoogleScreenView();
+});
+
 /*
     Cómo agregar una publicación:
         1. ir a la carpeta publications dentro de pages y crear un componente con extensión .vue y seguir el ejemplo de 

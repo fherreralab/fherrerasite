@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import {router} from './routes';
+import { router } from './routes';
+import { VueGtag } from 'vue-gtag';
 
 /* import the fontawesome core */
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -19,6 +20,8 @@ library.add(faUserSecret, faGithub, faTwitter)
 
 const app = createApp(App);
 
-app.use(router);
+app.use(VueGtag, {
+    config: { id: 'UA-67513513-1' }
+}, router);
 app.component('font-awesome-icon', FontAwesomeIcon);
 app.mount('#app');
