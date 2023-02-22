@@ -21,7 +21,7 @@ library.add(faUserSecret, faGithub, faTwitter)
 const app = createApp(App);
 
 app.use(VueGtag, {
-    config: { id: 'UA-67513513-1' }
+    config: { id: 'G-0Q809JJD34' }
 }, router);
 app.component('font-awesome-icon', FontAwesomeIcon);
 app.mount('#app');
