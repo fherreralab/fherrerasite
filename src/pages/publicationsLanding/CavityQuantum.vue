@@ -1,81 +1,86 @@
 <template>
-    <PublicationTemplate title="Cavity Quantum Electrodynamics with Organic Materials"
-        imageName="displaced-potential-cavity.jpeg">
-
-        <template v-slot:publicationContent>
-            <div class="container text-start">
-                <p class="my-2 mx-5">
-                    We are developing new theoretical and numerical frameworks to study the complex quantum dynamics of
-                    organic
-                    materials embedded in optical and infrared optical cavities, in order to address outstanding
-                    questions
-                    and
-                    propose new experiments in the emerging field of organic cavity quantum electrodynamics.
-                </p>
-                <p class="my-2 mx-5">
-                    One of our goals is to theoretically construct robust quantum control schemes for the manipulation
-                    of
-                    optical,
-                    electronic and vibrational processes in organic molecular samples under strong and ultrastrong
-                    intracavity
-                    light-matter coupling. Our current efforts are focused on
-                    <strong>
-                        manipulating chemical reactions and nonlinear optical properties
-                    </strong>
-                    of organic materials, using quantum optics and quantum control techniques.
-                </p>
-
-                <p class="my-2 mx-5">
-                    We are also very actively developing efficient numerical methods to solve the complex internal
-                    quantum
-                    dynamics
-                    of organic cavities in the strong coupling regime, in order to realistically simulate experimental
-                    cavity
-                    observables such as the emission spectrum for arbitrary driving strength, the rates of chemical
-                    reactions
-                    and
-                    the nonlinear propagation of optical signals.
-                </p>
-
-                <strong>
-                    <p class="my-2 mx-5">
-                        Representative Publications:
+    <TripleColumna>
+        <template v-slot:contenido>
+                <h1 class="azulado-oscuro">Cavity Quantum Electrodynamics with Organic Materials</h1>
+                <img class="img-fluid" src="/assets/displaced-potential-cavity.jpeg" alt="imagen">
+                <div class="container text-start">
+                    <p class="my-2">
+                        We are developing new theoretical and numerical frameworks to study the complex quantum dynamics
+                        of
+                        organic
+                        materials embedded in optical and infrared optical cavities, in order to address outstanding
+                        questions
+                        and
+                        propose new experiments in the emerging field of organic cavity quantum electrodynamics.
                     </p>
-                </strong>
+                    <p class="my-2">
+                        One of our goals is to theoretically construct robust quantum control schemes for the
+                        manipulation
+                        of
+                        optical,
+                        electronic and vibrational processes in organic molecular samples under strong and ultrastrong
+                        intracavity
+                        light-matter coupling. Our current efforts are focused on
+                        <strong>
+                            manipulating chemical reactions and nonlinear optical properties
+                        </strong>
+                        of organic materials, using quantum optics and quantum control techniques.
+                    </p>
 
-                <p class="my-2 mx-5">
-                    F. Herrera and J. Owrutsky, Molecular polaritons for controlling chemistry with quantum optics, J.
-                    Chem.
-                    Phys.
-                    152, 100902, 2020.
-                </p>
+                    <p class="my-2">
+                        We are also very actively developing efficient numerical methods to solve the complex internal
+                        quantum
+                        dynamics
+                        of organic cavities in the strong coupling regime, in order to realistically simulate
+                        experimental
+                        cavity
+                        observables such as the emission spectrum for arbitrary driving strength, the rates of chemical
+                        reactions
+                        and
+                        the nonlinear propagation of optical signals.
+                    </p>
 
-                <p class="my-2 mx-5">
-                    F. Herrera and F. C. Spano, Theory of nanoscale organic cavities: The essential role of
-                    vibration-photon
-                    dressed
-                    states (Review), ACS Photonics 5, 65, 2018
-                </p>
+                    <strong>
+                        <p class="my-2">
+                            Representative Publications:
+                        </p>
+                    </strong>
 
-                <p class="my-2 mx-5">
-                    M. Litinskaya and F. Herrera, Vacuum-enhanced optical nonlinearities with organic molecular
-                    photoswitches,
-                    Phys.
-                    Rev. B 99, 041107(R), 2019.
-                </p>
+                    <p class="my-2">
+                        F. Herrera and J. Owrutsky, Molecular polaritons for controlling chemistry with quantum optics,
+                        J.
+                        Chem.
+                        Phys.
+                        152, 100902, 2020.
+                    </p>
 
-                <p class="my-2 mx-5">
-                    F. Herrera, B. Peropadre, L. A. Pachon, S. Saikin, A. Aspuru-Guzik, Quantum nonlinear optics with
-                    polar
-                    J-aggregates in microcavities, J. Phys. Chem. Lett. 5, 3708, 2014
-                </p>
+                    <p class="my-2">
+                        F. Herrera and F. C. Spano, Theory of nanoscale organic cavities: The essential role of
+                        vibration-photon
+                        dressed
+                        states (Review), ACS Photonics 5, 65, 2018
+                    </p>
 
-            </div>
-        </template>
-    </PublicationTemplate>
+                    <p class="my-2">
+                        M. Litinskaya and F. Herrera, Vacuum-enhanced optical nonlinearities with organic molecular
+                        photoswitches,
+                        Phys.
+                        Rev. B 99, 041107(R), 2019.
+                    </p>
+
+                    <p class="my-2">
+                        F. Herrera, B. Peropadre, L. A. Pachon, S. Saikin, A. Aspuru-Guzik, Quantum nonlinear optics
+                        with
+                        polar
+                        J-aggregates in microcavities, J. Phys. Chem. Lett. 5, 3708, 2014
+                    </p>
+
+                </div>
+            </template>
+        </TripleColumna>
 </template>
 
 <script setup>
-import PublicationTemplate from '@/components/PublicationTemplate.vue';
+import TripleColumna from '@/components/TripleColumna.vue';
 
 </script>

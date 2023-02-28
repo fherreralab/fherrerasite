@@ -4,6 +4,12 @@
             <h1>Publications</h1>
 
             <ul>
+                <li><strong>2023</strong></li>
+                <li>[42] B. Martinez, <a href="https://arxiv.org/abs/2208.01217">Modeling Statistics bla bla</a> , J.
+                    Chem. Phys. (in press) <a href="https://doi.org/10.1063/5.0119293">https://doi.org/10.1063/5.0119293</a> , 2022.
+                    <a href="/assets/papers/2022_AnisotropicBandEdge.pdf" target="_blank">[PDF]</a>
+                </li>
+
                 <li><strong>2022</strong></li>
                 <li>[41] J. F. Triana and F. Herrera, <a href="https://arxiv.org/abs/2208.01217">Open quantum dynamics
                         of
@@ -28,7 +34,7 @@
                         Biopolymer Films for Biodegradable Packaging A Reference Dataset for Exploring the Limits of
                         Mechanical
                         Performance</a>, Materials 15, 3954, 2022. <a href="/assets/papers/2022 Agar Biopolymer Films for Biodegradable Packaging A Reference Dataset for 
-                        Exploring the Limits of Mechanical Performance.pdf" download>[PDF]</a> +
+                            Exploring the Limits of Mechanical Performance.pdf" download>[PDF]</a> +
                     <a href="https://data.mendeley.com/datasets/nyz4y58jbt">[DATA].</a> <strong>Featured</strong> in
                     <a href="https://www.azom.com/news.aspx?newsID=59250">AzoM.com.</a>
                 </li>
@@ -402,4 +408,5 @@ li {
 
 a {
     text-decoration: none;
-}</style>
+}
+</style>

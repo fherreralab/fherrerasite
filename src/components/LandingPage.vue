@@ -1,39 +1,37 @@
 <template>
-    <div class="container">
-        <div class="container text-start">
-            <h1 class="text-center">Molecular Quantum Technology Group</h1>
+    <triple-columna>
+        <template v-slot:contenido>
+            <h2 class="azulado-oscuro">Molecular Quantum Technology Group</h2>
 
-            <p>Welcome to our group website!</p>
+            <p class="my-2">Welcome to our group website!</p>
 
             <p>In the Herrera Lab, we develop theoretical concepts and computational tools to address exciting and
                 challenging
                 problems at the interface of
-                <strong>
+                <strong class="azulado-oscuro">
                     chemical physics, quantum optics, materials science and quantum information
                 </strong>. Find out more about our current research in the links below.
             </p>
-        </div>
 
-        <div class="my-2 border text-center" v-for="(publication, index) in publications" :key="index">
-            <router-link :to=publication.link>
-                <img :src="require(`../../public/assets/${publication.image}`)" alt="">
-            </router-link>
-            <div class="m-3">
-                <h2>{{ publication.title }}</h2>
+            <div class="my-2 border text-center" v-for="(publication, index) in publications" :key="index">
+                <router-link :to=publication.link>
+                    <img class="img-fluid" :src="require(`../../public/assets/${publication.image}`)" alt="">
+                </router-link>
+                <div class="m-3">
+                    <h2 class="azulado-oscuro">{{ publication.title }}</h2>
+                </div>
             </div>
-        </div>
-    </div>
+
+            <div>
+                <h2 class="azulado-oscuro">Funding</h2>
+                <img class="img-fluid" src="../../public/assets/funding-banner.png" alt="">
+            </div>
+        </template>
+    </triple-columna>
 </template>
 
 <script setup>
-/*
-    Cómo agregar una publicación:
-        1. ir a la carpeta publications dentro de pages y crear un componente con extensión .vue y seguir el ejemplo de 
-            los componentes ya hechos
-        2. En el archivo routes.js registrar el componente con la ruta deseada, seguir el ejemplo de los ya creados
-        3. Agregar al array publications que se encuentra más abajo la información de la publicación siguiendo el
-            ejemplo de las yo creados
-*/
+import TripleColumna from './TripleColumna.vue';
 
 
 const publications = [

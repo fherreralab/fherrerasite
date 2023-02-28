@@ -1,8 +1,10 @@
 <template>
-    <PublicationTemplate title="Quantum Control with Ultracold Molecules" image-name="driven-polar-molecules.jpeg">
-        <template v-slot:publicationContent>
+    <TripleColumna>
+        <template v-slot:contenido>
+            <h1 class="azulado-oscuro">Quantum Control with Ultracold Molecules</h1>
+            <img class="img-fluid" src="/assets/driven-polar-molecules.jpeg" alt="imagen">
             <div class="container text-start">
-                <p class="my-2 mx-5">
+                <p class="my-2 ">
                     Atomic, molecular and optical (AMO) physics is at the core of all our research activities. We have
                     studied a number of coherent control schemes designed to manipulate ultracold atomic and molecular
                     collisions using electric and magnetic fields in optical traps, proposing a solution to the
@@ -14,7 +16,7 @@
                     optical lattices can be used to implement universal two-qubit quantum gates with single-site
                     resolution using static magnetic fields and far-detuning near-infrared lasers.
                 </p>
-                <p class="my-2 mx-5">
+                <p class="my-2 ">
                     We are currently exploring novel sympathetic cooling schemes based on laser-driven atom-molecule
                     collisions between ultracold Rydberg-dressed atoms and polar polyatomic molecules in
                     three-dimensional dipole traps. Designing a general realistic scheme for bringing polyatomic
@@ -23,27 +25,27 @@
                 </p>
 
                 <strong>
-                    <p class="my-2 mx-5">
+                    <p class="my-2 ">
                         Representative Publications:
                     </p>
                 </strong>
 
-                <p class="my-2 mx-5">
+                <p class="my-2 ">
                     F. Herrera, Y. Cao, S. Kais, K. B. Whaley, Infrared-dressed entanglement of cold open-shell polar
                     molecules for universal matchgate quantum computing, New J. Phys. 16, 075001, 2014
                 </p>
 
-                <p class="my-2 mx-5">
+                <p class="my-2 ">
                     F. Herrera, K. W. Madison, R. V. Krems, M. Berciu, Investigating polaron transitions with polar
                     molecules, Phys. Rev. Lett. 110, 223002, 2013
                 </p>
 
-                <p class="my-2 mx-5">
+                <p class="my-2 ">
                     F. Herrera and R. V. Krems, Tunable Holstein model with cold polar molecules, Phys. Rev. A 84,
                     051401(R), 2011
                 </p>
 
-                <p class="my-2 mx-5">
+                <p class="my-2 ">
                     F. Herrera, Quantum control of binary and many-body interactions in ultracold molecular gases, PhD
                     Thesis, University of British Columbia, 2012
                 </p>
@@ -51,12 +53,12 @@
             </div>
         </template>
 
-    </PublicationTemplate>
+    </TripleColumna>
 
 </template>
 
 <script setup>
-import PublicationTemplate from '@/components/PublicationTemplate.vue';
+import TripleColumna from "@/components/TripleColumna.vue";
 
 
 </script>
