@@ -79,7 +79,7 @@ const routes = [
         component: QuantumControlUltracold
     },
     {
-        path: '/MIRO',
+        path: '/miro',
         name: 'MIRO',
         component: MiroPage
     },

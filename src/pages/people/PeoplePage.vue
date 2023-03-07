@@ -63,7 +63,7 @@
                     <div class="col-md-4 col-sm-12">
                         <PeopleCard name="Thulasi Bikku">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/group_news_images/thulasi-profile.png`)"
                                     alt="">
                             </template>
 
@@ -78,7 +78,7 @@
                         <PeopleCard name="Dr. Rubén Fritz">
                             <template v-slot:imagen>
                                 <img class="max-image-size"
-                                    :src="require(`../../../public/assets/group_news_images/thulasi-profile.png`)" alt="">
+                                    :src="require(`../../../public/assets/icon_generic.png`)" alt="">
                             </template>
 
                             <template v-slot:contenido>
@@ -163,8 +163,8 @@
 
                 <div class="row text-center">
                     <h2>Master Students</h2>
-                    <div class="col"></div>
-                    <div class="col">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-6">
                         <PeopleCard name="Simón Paiva">
                             <template v-slot:imagen>
                                 <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
@@ -177,13 +177,13 @@
                             </template>
                         </PeopleCard>
                     </div>
-                    <div class="col"></div>
+                    <div class="col-md-3"></div>
                 </div>
                 <hr>
                 <div class="row text-center">
                     <h2>Research Assistants</h2>
-                    <div class="col"></div>
-                    <div class="col">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-6">
                         <PeopleCard name="Gastón González">
                             <template v-slot:imagen>
                                 <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
@@ -196,7 +196,7 @@
                             </template>
                         </PeopleCard>
                     </div>
-                    <div class="col"></div>
+                    <div class="col-md-3"></div>
                 </div>
                 <hr>
 

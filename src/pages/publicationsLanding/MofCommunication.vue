@@ -20,8 +20,9 @@
                     </strong>
                     based on high-quality MOF crystals. This is one of the
                     main research directions of the new
-                    <a href="/miro">Millennium Institute for Research in Optics</a>
-                    .
+                    <router-link to="/miro">
+                        Millennium Institute for Research in Optics.
+                    </router-link>
                 </p>
 
                 <strong>
