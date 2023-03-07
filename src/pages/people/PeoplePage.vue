@@ -61,7 +61,7 @@
                 <div class="row text-center">
                     <h2>Postdoctoral Researchers</h2>
                     <div class="col-md-4 col-sm-12">
-                        <PeopleCard name="Thulasi Bikku">
+                        <PeopleCard name="Dra. Thulasi Bikku">
                             <template v-slot:imagen>
                                 <img class="max-image-size" :src="require(`../../../public/assets/group_news_images/thulasi-profile.png`)"
                                     alt="">
@@ -89,7 +89,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-12">
-                        <PeopleCard name="Johan Triana">
+                        <PeopleCard name="Dr. Johan Triana">
                             <template v-slot:imagen>
                                 <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
                                     alt="">
