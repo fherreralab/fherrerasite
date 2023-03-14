@@ -1,12 +1,11 @@
 <template>
 
-    <div class="container">
-        <div class="row justify-content-center">
+        <div class="row">
 
             <div class="col">
 
             </div>
-            <div class="col-6 text-start">
+            <div class="col-md-6 col-sm-8 text-center">
                 <h3>Group News</h3>
 
                 <div class="container-fluid">
@@ -19,7 +18,6 @@
 
             </div>
         </div>
-    </div>
 
 </template>
 
