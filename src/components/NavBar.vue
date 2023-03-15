@@ -6,11 +6,11 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navBarToggler">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto">
+                <ul class="navbar-nav me-auto mb-lg-0 mx-auto">
                     <router-link class="navbar-brand text-color" to="/">
                         Herrera Lab
                     </router-link>
-                    <router-link class="navbar-brand text-color" to="/publications">
+                    <router-link class="nav-link text-color" to="/publications">
                         Publications
                     </router-link>
                     <li class="nav-item">

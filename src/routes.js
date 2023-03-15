@@ -11,11 +11,13 @@ import OpeningsPage from './pages/openings/OpeningsPage.vue';
 import ResourcesPage from './pages/resources/ResourcesPage.vue';
 import GroupNews from './pages/group_news/GroupNews.vue';
 
+// Farewell
 import StanfordRicky from './pages/group_news/news/farewell/StanfordRicky.vue';
 import VanessaOlaya from './pages/group_news/news/farewell/VanessaOlaya.vue';
 import IgnacioChi from './pages/group_news/news/farewell/IgnacioChi.vue';
 import JonathanSepulveda from './pages/group_news/news/farewell/JonathanSepulveda.vue';
 
+// Congrats
 import MqtSubmission from './pages/group_news/news/congrats/MqtSubmission.vue';
 import FelipeEditorialAdvisoryBoard from './pages/group_news/news/congrats/FelipeEditorialAdvisoryBoard.vue';
 import MolecularPolariton from './pages/group_news/news/congrats/MolecularPolariton.vue';
@@ -23,11 +25,14 @@ import JohanFedericoAwardedFondecytPostdoc from './pages/group_news/news/congrat
 import FedericoHernandezReceivesPrize from './pages/group_news/news/congrats/FedericoHernandezReceivesPrize.vue';
 import IgnacioChiReceivesFullBrightConycit from './pages/group_news/news/congrats/IgnacioChiReceivesFullBrightConycit.vue';
 
+// Grants
 import FelipeFondecytGrant from './pages/group_news/news/grants/FelipeFondecytGrant.vue';
 import FelipeCoFounderMilenniumInstitute from './pages/group_news/news/grants/FelipeCoFounderMilenniumInstitute.vue';
 import FelipeWinsRegularGrantConicyt from './pages/group_news/news/grants/FelipeWinsRegularGrantConicyt.vue';
 import FelipeWinsRedesTravelGrant from './pages/group_news/news/grants/FelipeWinsRedesTravelGrant.vue';
+import FelipeWinsAFOSRGrant from './pages/group_news/news/grants/FelipeWinsAFOSRGrant.vue';
 
+// Welcome
 import MelissaJoins from './pages/group_news/news/welcome/MelissaJoins.vue';
 import BastianJoins from './pages/group_news/news/welcome/BastianJoins.vue';
 import WelcomeThulasiBikku from './pages/group_news/news/welcome/WelcomeThulasiBikku.vue';
@@ -38,6 +43,7 @@ import MauricioAriasJoins from './pages/group_news/news/welcome/MauricioAriasJoi
 import DrFedericoHernandezJoins from './pages/group_news/news/welcome/DrFedericoHernandezJoins.vue';
 import RubenFritzJoins from './pages/group_news/news/welcome/RubenFritzJoins.vue';
 
+// Graduation
 import GastonDefendsMasterThesis from './pages/group_news/news/graduation/GastonDefendsMasterThesis.vue';
 import FelipeDefendsMasterThesis from './pages/group_news/news/graduation/FelipeDefendsMasterThesis.vue';
 import SimonPaivaUndergradThesis from './pages/group_news/news/graduation/SimonPaivaUndergradThesis.vue';
@@ -49,13 +55,24 @@ import FelipeRecabalDefendsUndergradThesis from './pages/group_news/news/graduat
 import DiegoCarvajalDefendsUndergradThesis from './pages/group_news/news/graduation/DiegoCarvajalDefendsUndergradThesis.vue';
 import JonathanSepulvedaDefendsUndergradThesis from './pages/group_news/news/graduation/JonathanSepulvedaDefendsUndergradThesis.vue';
 
+// Jobs
 import PostDocOpeningMOFDiscovery from './pages/group_news/news/jobs/PostDocOpeningMOFDiscovery.vue';
 import PostDocOpeningQuantumCryptography from './pages/group_news/news/jobs/PostDocOpeningQuantumCryptography.vue';
 import PostDocOpeningOrganicMaterialsSCS from './pages/group_news/news/jobs/PostDocOpeningOrganicMaterialsSCS.vue';
 
+// Events
 import FirstWorkshopMQT from './pages/group_news/news/events/FirstWorkshopMQT.vue';
 
 export const group_news_routes = [
+   
+    {
+        path: '/grants-2022-11-15-Felipe-wins-AFOSR-grant-for-Organic-QED-technology',
+        name: 'FelipeWinsAFOSRGrant',
+        title: 'Felipe wins AFOSR grant for Organic QED technology',
+        date: "Nov 15, 2022",
+        component: FelipeWinsAFOSRGrant
+    },
+   
     {
         path: '/farewell-2022-08-24-Stanford-undergrad-Ricky-Parada-ends-research-stay-at-USACH',
         name: 'StanfordRicky',
