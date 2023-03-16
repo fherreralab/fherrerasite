@@ -1,6 +1,6 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publicPath: './',
+   publicPath: process.env.NODE_ENV === "production" ? "/fherrerasite/" : "/",
 
   transpileDependencies: true,
   // accept pdf files
