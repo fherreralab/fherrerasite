@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col"></div>
-            <div class="col-6">
+            <div class="col-10">
                 <h1 class="text-center">People</h1>
-                <div class="text-center">
+                <div class="text-center my-3">
                     <img class="img-fluid" :src="require(`../../../public/assets/group-april-2022.jpg`)" alt="">
-                    <p class="small-p">
+                    <p >
                         <strong>April 2022</strong>
                         - Left to right: Gastón, Athul, Felipe R., Rubén, Felipe H., Katy, Mauricio, Johan, Bastián,
                         Fernanda.
@@ -15,7 +15,7 @@
 
                 <div class="text-center">
                     <img class="img-fluid" :src="require(`../../../public/assets/group-sep-2019.jpg`)" alt="">
-                    <p class="small-p">
+                    <p>
                         <strong>Sep. 2019</strong>
                         - Left to right: Rubén, Mauricio, Diego, Iván, Jonathan, Felipe H., Ignacio, Vanessa, Federico,
                         Johan, Felipe R.
@@ -25,6 +25,8 @@
             </div>
             <div class="col"></div>
         </div>
+
+        <hr>
 
         <div class="row justify-content-center">
             <div class="container">
@@ -306,13 +308,9 @@ p {
     margin: 1px;
 }
 
-.small-p {
-    font-size: 0.75em;
-}
-
 .max-image-size {
-    width: 75%;
-    height: 75%;
+    width: 100%;
+    height: 100%;
 }
 
 .container-imagen {

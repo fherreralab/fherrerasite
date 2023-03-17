@@ -1,30 +1,24 @@
 <template>
+    <TripleColumna>
+        <template v-slot:contenido>
+            <h3 class="text-center">Group News</h3>
 
-        <div class="row">
+            <GroupNewsLink v-for="(news, index) in groupNews" :key="index" :title="news.title" :name="news.name"
+                :date="news.date" />
 
-            <div class="col">
+        </template>
 
-            </div>
-            <div class="col-md-6 col-sm-8 text-center">
-                <h3>Group News</h3>
-
-                <div class="container-fluid">
-                    <GroupNewsLink v-for="(news, index) in groupNews" :key="index" :title="news.title" :name="news.name"
-                        :date="news.date" />
-                </div>
-
-            </div>
-            <div class="col">
-
-            </div>
-        </div>
-
+    </TripleColumna>
 </template>
 
 <script setup>
 import GroupNewsLink from '@/components/GroupNewsLink.vue';
 import { group_news_routes } from '@/routes';
 
+import TripleColumna from '@/components/TripleColumna.vue';
+
 const groupNews = group_news_routes;
+
+console.log(groupNews);
 
 </script>

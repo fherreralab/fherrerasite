@@ -1,9 +1,9 @@
 <template>
     <triple-columna>
         <template v-slot:contenido>
-            <h2 class="azulado-oscuro">Molecular Quantum Technology Group</h2>
+            <h2 class="azulado-oscuro text-center">Molecular Quantum Technology Group</h2>
 
-            <p class="my-2">Welcome to our group website!</p>
+            <p class="mt-3 mb-2"> <strong>Welcome to our group website!</strong> </p>
 
             <p>In the Herrera Lab, we develop theoretical concepts and computational tools to address exciting and
                 challenging
