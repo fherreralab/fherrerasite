@@ -1,13 +1,12 @@
 <template>
     <div class="container">
         <div class="row justify-content-center">
-
-            <div class="col-md-3 col-sm-1">
+            <div class="col-md-2 col-sm-1">
 
             </div>
-            <div class="col-md-6 col-sm-10 text-start">
+            <div class="col-md-8 col-sm-10 text-start">
                 <div class="container-fluid">
-                    <div v-if="title" class="row mt-4">
+                    <div v-if="title" class="row mt-4 text-center">
                         <h2 class="azulado-oscuro">
                             {{title}}
                         </h2>
@@ -15,10 +14,13 @@
                     <div v-if="date" class="row mb-4">
                         <small class="date-color">{{date}}</small>
                     </div>
-                    <slot name="contenido"></slot>
+
+                    <div class="mt-3">
+                        <slot name="contenido"></slot>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm">
+            <div class="col-md-2 col-sm-1">
 
             </div>
         </div>

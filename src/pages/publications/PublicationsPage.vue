@@ -1,7 +1,7 @@
 <template>
     <TripleColumna>
         <template v-slot:contenido>
-            <h1>Publications</h1>
+            <h1 clasS="text-center">Publications</h1>
 
             <ul>
                 <li><strong>2023</strong></li>

@@ -1,20 +1,15 @@
 <template>
-
-    <div class="container-fluid my-4">
-        <div class="col text-start">
-            <div class="row">
-                <small class="date-color">{{ date }}</small>
-            </div>
-            <div class="row">
-                <router-link class="link-color" :to="{name: name}">
-                    <h4>
-                        {{ title }}
-                    </h4>
-                </router-link>
-            </div>
+    <router-link class="link-color" :to="{ name: name }">
+        <div class="my-4">
+            <small class="date-color">
+                {{ date }}
+            </small>
+            <h4>
+                {{ title }} 
+            </h4>
         </div>
-    </div>
-
+        
+    </router-link>
 </template>
 
 <script setup>
@@ -38,7 +33,6 @@ defineProps({
 </script>
 
 <style>
-
 .date-color {
     color: #8e8e8e;
 }
@@ -48,5 +42,4 @@ defineProps({
     /* remove link decoration */
     text-decoration: none;
 }
-
 </style>
