@@ -3,13 +3,16 @@
         <template v-slot:contenido>
             <h1>Publications</h1>
 
-            <ul>
+            <ul>            
                 <li><strong>2023</strong></li>
-                 <li>
+                <li>
+                    [42] G. González, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2210.14663">Model reduction for molecular diffusion in nanoporous media</a>, Phys. Rev. Materials (in press), 2023.
+                </li>  
+                <li>
                     [41] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.2c07955">Machine
                         learning identification of organic compounds using visible light</a>, J. Phys. Chem. A 127, 2407, 2023.
-                    <a href="https://zenodo.org/record/6419971">[GitHub]</a> <a href="/assets/papers/2023 Machine Learning Identification of Organic Compounds Using Visible Light.pdf"
-                        target="_blank">[PDF]</a>
+                        <a href="/assets/papers/2023 Machine Learning Identification of Organic Compounds Using Visible Light.pdf"
+                        target="_blank">[PDF]</a> + <a href="https://zenodo.org/record/6419971" target="_blank">[CODE]</a> 
                 </li>            
                 <li><strong>2022</strong></li>
                 <li>[40] J. F. Triana and F. Herrera, <a href="https://aip.scitation.org/doi/10.1063/5.0119293">Open quantum dynamics

@@ -44,6 +44,7 @@ import DrFedericoHernandezJoins from './pages/group_news/news/welcome/DrFederico
 import RubenFritzJoins from './pages/group_news/news/welcome/RubenFritzJoins.vue';
 
 // Graduation
+import SimonPaivaDefendsMasterThesis from './pages/group_news/news/graduation/SimonPaivaDefendsMasterThesis.vue';
 import GastonDefendsMasterThesis from './pages/group_news/news/graduation/GastonDefendsMasterThesis.vue';
 import FelipeDefendsMasterThesis from './pages/group_news/news/graduation/FelipeDefendsMasterThesis.vue';
 import SimonPaivaUndergradThesis from './pages/group_news/news/graduation/SimonPaivaUndergradThesis.vue';
@@ -60,19 +61,28 @@ import PostDocOpeningMOFDiscovery from './pages/group_news/news/jobs/PostDocOpen
 import PostDocOpeningQuantumCryptography from './pages/group_news/news/jobs/PostDocOpeningQuantumCryptography.vue';
 import PostDocOpeningOrganicMaterialsSCS from './pages/group_news/news/jobs/PostDocOpeningOrganicMaterialsSCS.vue';
 
-// Events
+// Events Simón Paiva successfully defends his MSc thesis in Physics
 import FirstWorkshopMQT from './pages/group_news/news/events/FirstWorkshopMQT.vue';
 
 export const group_news_routes = [
    
+
     {
-        path: '/grants-2022-11-15-Felipe-wins-AFOSR-grant-for-Organic-QED-technology',
+        path: '/grants-2022-11-15-Felipe-Herrera-receives-joint-AFOSR-ONRG-funding-for-molecular-polaritons',
         name: 'FelipeWinsAFOSRGrant',
-        title: 'Felipe wins AFOSR grant for Organic QED technology',
+        title: 'Felipe Herrera receives joint AFOSR-ONRG funding for Molecular Polaritons',
         date: "Nov 15, 2022",
         component: FelipeWinsAFOSRGrant
     },
-   
+
+    {
+        path: '/graduation-2022-10-17-Simón-Paiva-successfully-defends-his-MSc-thesis-in-Physics',
+        name: 'SimonPaivaDefendsMasterThesis',
+        title: 'Simón Paiva successfully defends his MSc thesis in Physics',
+        date: "Oct 17, 2022",
+        component: SimonPaivaDefendsMasterThesis
+    },
+
     {
         path: '/farewell-2022-08-24-Stanford-undergrad-Ricky-Parada-ends-research-stay-at-USACH',
         name: 'StanfordRicky',
