@@ -6,7 +6,8 @@
             <ul>            
                 <li><strong>2023</strong></li>
                 <li>
-                    [42] G. González, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2210.14663">Model reduction for molecular diffusion in nanoporous media</a>, Phys. Rev. Materials (in press), 2023.
+                    [42] G. González, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2210.14663">
+                        Model reduction for molecular diffusion in nanoporous media</a>, Phys. Rev. Materials (in press), 2023.
                 </li>  
                 <li>
                     [41] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.2c07955">Machine
