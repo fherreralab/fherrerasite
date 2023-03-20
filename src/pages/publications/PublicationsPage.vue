@@ -13,7 +13,12 @@
                     [41] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.2c07955">Machine
                         learning identification of organic compounds using visible light</a>, J. Phys. Chem. A 127, 2407, 2023.
                         <a href="/assets/papers/2023 Machine Learning Identification of Organic Compounds Using Visible Light.pdf"
-                        target="_blank">[PDF]</a> + <a href="https://zenodo.org/record/6419971" target="_blank">[CODE]</a> 
+                        target="_blank">[PDF]</a> + <a href="https://zenodo.org/record/6419971" target="_blank">[CODE]</a>. 
+                        <strong>Featured in                     <a
+                        href="https://www.chemistryworld.com/news/ai-identifies-molecules-from-their-featureless-visible-spectrum/4017142.article">Chemistry World</a> 
+                        and <a
+                        href="https://phys.org/news/2023-03-compounds-visible.html#">Phys Org News</a>.
+                    </strong>
                 </li>            
                 <li><strong>2022</strong></li>
                 <li>[40] J. F. Triana and F. Herrera, <a href="https://aip.scitation.org/doi/10.1063/5.0119293">Open quantum dynamics
