@@ -5,6 +5,12 @@
 
             <ul>            
                 <li><strong>2023</strong></li>
+                
+                <li>
+                    [43] R. Wilcken, J. Nishida, J. F. Triana, A. John-Herpin, H. Altug, S. Sharma, F. Herrera, M. B. Raschke, 
+                    Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction, Proc. Natl. Acad. Sci. 120 (in press) 2023.    
+                </li>  
+                
                 <li>
                     [42] G. González, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.036001">
                         Model reduction for molecular diffusion in nanoporous media</a>, Phys. Rev. Materials 7, 036001, 2023. 
