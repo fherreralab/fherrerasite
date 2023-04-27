@@ -18,6 +18,7 @@ import IgnacioChi from './pages/group_news/news/farewell/IgnacioChi.vue';
 import JonathanSepulveda from './pages/group_news/news/farewell/JonathanSepulveda.vue';
 
 // Congrats
+import FelipeWinsRoyalSocietyAward from './pages/group_news/news/congrats/FelipeWinsRoyalSocietyAward.vue';
 import MqtSubmission from './pages/group_news/news/congrats/MqtSubmission.vue';
 import FelipeEditorialAdvisoryBoard from './pages/group_news/news/congrats/FelipeEditorialAdvisoryBoard.vue';
 import MolecularPolariton from './pages/group_news/news/congrats/MolecularPolariton.vue';
@@ -44,6 +45,7 @@ import DrFedericoHernandezJoins from './pages/group_news/news/welcome/DrFederico
 import RubenFritzJoins from './pages/group_news/news/welcome/RubenFritzJoins.vue';
 
 // Graduation
+import FernandaVelizDefendsUndergradThesis from './pages/group_news/news/graduation/FernandaVelizDefendsUndergradThesis.vue';
 import SimonPaivaDefendsMasterThesis from './pages/group_news/news/graduation/SimonPaivaDefendsMasterThesis.vue';
 import GastonDefendsMasterThesis from './pages/group_news/news/graduation/GastonDefendsMasterThesis.vue';
 import FelipeDefendsMasterThesis from './pages/group_news/news/graduation/FelipeDefendsMasterThesis.vue';
@@ -66,6 +68,22 @@ import FirstWorkshopMQT from './pages/group_news/news/events/FirstWorkshopMQT.vu
 
 export const group_news_routes = [
    
+    {
+        path: '/graduation-2023-04-27-Fernanda-Veliz-successfully-defends-her-undergraduate-thesis',
+        name: 'FernandaVelizDefendsUndergradThesis',
+        title: 'Fernanda Véliz successfully defends her undergraduate thesis',
+        date: "Apr 27, 2023",
+        component: FernandaVelizDefendsUndergradThesis
+    },
+
+    {
+        path: '/congrats-2023-03-30-Felipe-Herrera-receives-Royal-Society-Wolfson-Visiting-Fellowship',
+        name: 'FelipeWinsRoyalSocietyAward',
+        title: 'Felipe Herrera awarded the Royal Society Wolfson Visiting Fellowship',
+        date: "Mar 30, 2023",
+        component: FelipeWinsRoyalSocietyAward
+    },
+
 
     {
         path: '/grants-2022-11-15-Felipe-Herrera-receives-joint-AFOSR-ONRG-funding-for-molecular-polaritons',
