@@ -33,7 +33,7 @@
                         of strongly coupled oscillators with multi-configuration time-dependent Hartree propagation and Markovian quantum jumps</a>,
                          J. Chem. Phys. 157, 194104, 2022. 
                          <a href="/assets/papers/2022 Open quantum dynamics of strongly coupled oscillators with multi-configuration time dependent Hartree propagation and Markovian quantum jumps.pdf" target="_blank">[PDF]</a>
-                         <strong>Selected for 2022 JCP Emerging Investigator Special Collection.</strong>
+                         <strong> Selected for 2022 JCP Emerging Investigator Special Collection.</strong>
                 </li>
                 <li>
                     [39] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera,
