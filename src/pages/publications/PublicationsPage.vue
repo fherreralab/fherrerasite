@@ -31,7 +31,9 @@
                 <li><strong>2022</strong></li>
                 <li>[40] J. F. Triana and F. Herrera, <a href="https://aip.scitation.org/doi/10.1063/5.0119293">Open quantum dynamics
                         of strongly coupled oscillators with multi-configuration time-dependent Hartree propagation and Markovian quantum jumps</a>,
-                         J. Chem. Phys. 157, 194104, 2022. <a href="/assets/papers/2022 Open quantum dynamics of strongly coupled oscillators with multi-configuration time dependent Hartree propagation and Markovian quantum jumps.pdf" target="_blank">[PDF]</a>
+                         J. Chem. Phys. 157, 194104, 2022. 
+                         <a href="/assets/papers/2022 Open quantum dynamics of strongly coupled oscillators with multi-configuration time dependent Hartree propagation and Markovian quantum jumps.pdf" target="_blank">[PDF]</a>
+                         <strong>Selected for 2022 JCP Emerging Investigator Special Collection.</strong>
                 </li>
                 <li>
                     [39] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera,
@@ -187,9 +189,8 @@
                     Chem. Phys. 151, 144116, 2019. <a
                         href="/assets/papers/2019 Multi-level quantum Rabi model for anharmonic vibrational polaritons.pdf"
                         target="_blank">[PDF]</a>
-                    <strong>Selected as Editor’s Pick</strong>. Received the <strong>2019 JCP Best Paper Award by an
-                        Emerging
-                        Investigator.</strong>
+                    <strong>Selected as Editor’s Pick</strong>. Selected part of <strong>2019 JCP Best Paper by an
+                        Emerging Investigator.</strong>
                 </li>
                 <li>
                     [22] I. Chi-Duran, Z. Setifi, F. Setifi, C. Jelsch, B. Morgenstern, A. Vega, F. Herrera, D. Pratap
