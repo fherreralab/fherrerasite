@@ -93,7 +93,7 @@
                     <div class="col-md-4 col-sm-12">
                         <PeopleCard name="Dr. Johan Triana">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/JohanTriana.jpg`)"
                                     alt="">
                             </template>
 
@@ -112,7 +112,7 @@
                         <PeopleCard name="Katy Arauchan">
                             <template v-slot:imagen>
                                 <img class="max-image-size"
-                                    :src="require(`../../../public/assets/group_news_images/katy-pic.jpg`)" alt="">
+                                    :src="require(`../../../public/assets/people/KatyArauchan.jpeg`)" alt="">
                             </template>
 
                             <template v-slot:contenido>
@@ -124,7 +124,7 @@
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Felipe Recabal">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/felipeRecabal.jpg`)"
                                     alt="">
                             </template>
 
@@ -137,7 +137,7 @@
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Athul Sivan">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/AthulS.jpg`)"
                                     alt="">
                             </template>
 
@@ -150,7 +150,7 @@
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Mauricio Arias">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/mauricioArias.jpeg`)"
                                     alt="">
                             </template>
 
@@ -208,7 +208,7 @@
                         <PeopleCard name="Bastián Martínez">
                             <template v-slot:imagen>
                                 <img class="max-image-size"
-                                    :src="require(`../../../public/assets/group_news_images/bmartinez-pic.jpeg`)" alt="">
+                                    :src="require(`../../../public/assets/people/bastianMartinez.jpg`)" alt="">
                             </template>
 
                             <template v-slot:contenido>
@@ -237,7 +237,7 @@
                     <div class="col-md-4 col-sm-12">
                         <PeopleCard name="Fernanda Véliz">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/FernandaVeliz.jpg`)"
                                     alt="">
                             </template>
 
