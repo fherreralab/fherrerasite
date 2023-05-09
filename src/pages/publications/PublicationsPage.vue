@@ -8,7 +8,9 @@
                 
                 <li>
                     [43] R. Wilcken, J. Nishida, J. F. Triana, A. John-Herpin, H. Altug, S. Sharma, F. Herrera, M. B. Raschke, 
-                    Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction, Proc. Natl. Acad. Sci. 120 (in press) 2023.    
+                    <a href="https://doi.org/10.1073/pnas.2220852120">Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction</a>, 
+                    Proc. Natl. Acad. Sci. 120, e2220852120, 2023. 
+                    <a href="/assets/papers/2023 Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction.pdf" target="_blank">[PDF]</a>    
                 </li>  
                 
                 <li>
