@@ -6,21 +6,30 @@
             <ul>            
                 <li><strong>2023</strong></li>
                 
+
+
+
                 <li>
-                    [43] R. Wilcken, J. Nishida, J. F. Triana, A. John-Herpin, H. Altug, S. Sharma, F. Herrera, M. B. Raschke, 
+                    [43] W. Ahn, J. F. Triana, F. Recabal, F. Herrera, B. Simpkins, Modification of ground state chemical reactivity 
+                        via light-matter coherence in infrared cavities, Science (in press), 2023. <a
+                        href="https://doi.org/10.26434/chemrxiv-2022-wb6vs-v2">[Preprint]</a>
+                </li>
+
+                <li>
+                    [42] R. Wilcken, J. Nishida, J. F. Triana, A. John-Herpin, H. Altug, S. Sharma, F. Herrera, M. B. Raschke, 
                     <a href="https://doi.org/10.1073/pnas.2220852120">Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction</a>, 
                     Proc. Natl. Acad. Sci. 120, e2220852120, 2023. 
                     <a href="/assets/papers/2023 Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction.pdf" target="_blank">[PDF]</a>    
                 </li>  
                 
                 <li>
-                    [42] G. González, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.036001">
+                    [41] G. González, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.036001">
                         Model reduction for molecular diffusion in nanoporous media</a>, Phys. Rev. Materials 7, 036001, 2023. 
                         <a href="/assets/papers/2023 Model reduction for molecular diffusion in nanoporous media.pdf"
                         target="_blank">[PDF]</a>
                 </li>  
                 <li>
-                    [41] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.2c07955">Machine
+                    [40] T. Bikku, R. A. Fritz, Y. J. Colón, F. Herrera, <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.2c07955">Machine
                         learning identification of organic compounds using visible light</a>, J. Phys. Chem. A 127, 2407, 2023.
                         <a href="/assets/papers/2023 Machine Learning Identification of Organic Compounds Using Visible Light.pdf"
                         target="_blank">[PDF]</a> + <a href="https://zenodo.org/record/6419971" target="_blank">[CODE]</a>. 
@@ -31,21 +40,21 @@
                     </strong>
                 </li>            
                 <li><strong>2022</strong></li>
-                <li>[40] J. F. Triana and F. Herrera, <a href="https://aip.scitation.org/doi/10.1063/5.0119293">Open quantum dynamics
+                <li>[39] J. F. Triana and F. Herrera, <a href="https://aip.scitation.org/doi/10.1063/5.0119293">Open quantum dynamics
                         of strongly coupled oscillators with multi-configuration time-dependent Hartree propagation and Markovian quantum jumps</a>,
                          J. Chem. Phys. 157, 194104, 2022. 
                          <a href="/assets/papers/2022 Open quantum dynamics of strongly coupled oscillators with multi-configuration time dependent Hartree propagation and Markovian quantum jumps.pdf" target="_blank">[PDF]</a>
                          <strong> Selected for 2022 JCP Emerging Investigator Special Collection.</strong>
                 </li>
                 <li>
-                    [39] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera,
+                    [38] I. Chi-Duran, R. Fritz, V. Olaya, R. Urzua-Leiva, G. I. Cárdenas-Jirón, D.P. Singh, F. Herrera,
                     <a href="https://pubs.acs.org/doi/10.1021/acsomega.2c01856">Anisotropic band-edge absorption of
                         millimeter-size Zn(3-Ptz)2 single crystal metal-organic frameworks</a>, ACS Omega 7, 24432,
                     2022.
                     <a href="/assets/papers/2022_AnisotropicBandEdge.pdf" target="_blank">[PDF]</a>
                 </li>
                 <li>
-                    [38] V. Hernandez, D. Ibarra, J. F. Triana, B. Martínez-Soto, M. Faúndez, D. A. Vasco, L. Gordillo,
+                    [37] V. Hernandez, D. Ibarra, J. F. Triana, B. Martínez-Soto, M. Faúndez, D. A. Vasco, L. Gordillo,
                     F.
                     Herrera, C. García-Herrera, A. Garmulewicz, <a href="https://www.mdpi.com/1996-1944/15/11/3954">Agar
                         Biopolymer Films for Biodegradable Packaging A Reference Dataset for Exploring the Limits of
@@ -56,12 +65,7 @@
                     <a href="https://www.azom.com/news.aspx?newsID=59250">AzoM.com.</a>
                 </li>
 
-                <li>
-                    [37] W. Ahn, F. Herrera, B. Simpkins, <a
-                        href="https://chemrxiv.org/engage/chemrxiv/article-details/6249bebf804882859a02b3f4">Modification
-                        of urethane addition reaction via vibrational strong coupling</a>, ChemRxiv
-                    DOI:10.26434/chemrxiv-2022-wb6vs, 2022.
-                </li>
+                
                 <li>
                     [36] F. Herrera and M. Litinskaya, <a href="https://aip.scitation.org/doi/10.1063/5.0075894">Ensembles
                         of
