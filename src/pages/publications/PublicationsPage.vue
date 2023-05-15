@@ -5,21 +5,26 @@
 
             <ul>            
                 <li><strong>2023</strong></li>
-                
 
-
+                <li>
+                    [44] S. Raj, R.A. Fritz, F. Herrera, Y. Colón, Understanding Correlation Between Structure 
+                         and Entangled Photon Pair Properties with Metal-Organic Frameworks, J. Phys. Chem. C (in press), 2023. 
+                         <a href="https://doi.org/10.26434/chemrxiv-2023-ljqrp" target="_blank">[Preprint]</a>
+                </li>
 
                 <li>
                     [43] W. Ahn, J. F. Triana, F. Recabal, F. Herrera, B. Simpkins, Modification of ground state chemical reactivity 
-                        via light-matter coherence in infrared cavities, Science (in press), 2023. <a
-                        href="https://doi.org/10.26434/chemrxiv-2022-wb6vs-v2">[Preprint]</a>
+                        via light-matter coherence in infrared cavities, Science (in press), 2023. 
+                        <a href="https://doi.org/10.26434/chemrxiv-2022-wb6vs-v2" target="_blank">[Preprint]</a>
                 </li>
 
                 <li>
                     [42] R. Wilcken, J. Nishida, J. F. Triana, A. John-Herpin, H. Altug, S. Sharma, F. Herrera, M. B. Raschke, 
                     <a href="https://doi.org/10.1073/pnas.2220852120">Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction</a>, 
                     Proc. Natl. Acad. Sci. 120, e2220852120, 2023. 
-                    <a href="/assets/papers/2023 Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction.pdf" target="_blank">[PDF]</a>    
+                    <a href="/assets/papers/2023 Antenna-coupled infrared nanospectroscopy of intramolecular vibrational interaction.pdf" target="_blank">[PDF]</a>. 
+
+                    <strong>Featured in <a href="https://www.elperiodista.cl/2023/05/equipo-chileno-estadounidense-logra-manipular-la-transferencia-de-energia-al-interior-de-una-molecula/" target="_blank">El Periodista.</a></strong>
                 </li>  
                 
                 <li>
