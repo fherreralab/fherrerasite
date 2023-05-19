@@ -79,13 +79,10 @@
 
                 
                 <li>
-                    [36] F. Herrera and M. Litinskaya, <a href="https://aip.scitation.org/doi/10.1063/5.0075894">Ensembles
-                        of
-                        single-molecule picocavities as nonlinear optical metamaterials</a> , J. Chem. Phys 156, 114702,
-                    2022.
-                    <a href="/assets/papers/2022 Disordered ensembles of strongly coupled single-molecule plasmonic picocavities as nonlinear optical metamaterials.pdf"
-                        target="_blank">
-                        [PDF]
+                    [36] F. Herrera and M. Litinskaya, <a href="https://pubs.aip.org/aip/jcp/article/156/11/114702/2841039/Disordered-ensembles-of-strongly-coupled-single">Ensembles
+                        of single-molecule picocavities as nonlinear optical metamaterials</a> , J. Chem. Phys 156, 114702,
+                    2022. <a href="/assets/papers/2022 Disordered ensembles of strongly coupled single-molecule plasmonic picocavities as nonlinear optical metamaterials.pdf"
+                        target="_blank"> [PDF]
                     </a>
                 </li>
                 <li>
