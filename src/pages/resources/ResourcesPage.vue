@@ -61,6 +61,12 @@
 
             <ul>
                 <li>
+                    S. Paiva, <a href="/assets/resources/msc-thesis-spaiva.pdf" target="_blank">Entangled photon generation with metal-organic frameworks</a>, 
+                    MSc Physics (2022)
+                </li>
+
+
+                <li>
                     F. Recabal, <a href="/assets/resources/msc-thesis-frecabal.pdf" target="_blank">Electron Transport in
                         Driven Nanojunctions</a>, MSc Physics (2021)
                 </li>
