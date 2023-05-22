@@ -90,29 +90,34 @@
 
             <ul>
                 <li>
+                    F. Véliz, <a href="/assets/resources/thesis-fveliz.pdf" target="_blank"> Predicción de materiales bioplásticos 
+                        por medio de aprendizaje no supervisado</a>, Computer Science (2023).
+                </li>
+
+                <li>
                     S. Paiva, <a href="/assets/resources/thesis-spaiva.pdf" target="_blank">Regresión de datos en
-                        elipsometría de Mueller usando inteligencia artificial</a>, Eng. Phys. (2020).
+                        elipsometría de Mueller usando inteligencia artificial</a>, Engineering Physics (2020).
                 </li>
                 <li>
                     I. Jara, <a href="/assets/resources/thesis-ijara.pdf" target="_blank">Simulación computacional de la
-                        eficiencia óptica de estructuras OLED</a>, Eng. Phys. (2019).
+                        eficiencia óptica de estructuras OLED</a>, Engineering Physics (2019).
                 </li>
                 <li>
                     G. González, <a href="/assets/resources/thesis-ggonzalez.pdf" target="_blank">Simulación computacional
                         de la eficiencia de
-                        recombinación OLED con el método Drift-Diffusion</a> , Eng. Phys. (2019).
+                        recombinación OLED con el método Drift-Diffusion</a>, Engineering Physics (2019).
                 </li>
                 <li>
                     D. Carvajal, <a href="/assets/resources/thesis-dcarvajal.pdf" target="_blank">Oscilador armónico
-                        cuántico amortiguado bajo forzamiento periódico</a> , Eng. Math. (2018).
+                        cuántico amortiguado bajo forzamiento periódico</a>, Engineering Mathematics (2018).
                 </li>
                 <li>
                     F. Recabal, <a href="/assets/resources/thesis-frecabal.pdf" target="_blank">Estudio de eficiencia de
-                        Celdas Solares Orgánicas</a>, Eng. Phys. (2018).
+                        Celdas Solares Orgánicas</a>, Engineering Physics (2018).
                 </li>
                 <li>
                     J. Sepúlveda, <a href="/assets/resources/thesis-jsepulveda.pdf" target="_blank">Estudio computacional de
-                        plasmones localizados ennanoparticulas de plata</a>, Eng. Phys. (2017).
+                        plasmones localizados ennanoparticulas de plata</a>, Engineering Physics (2017).
                 </li>
             </ul>
 
