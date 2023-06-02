@@ -14,10 +14,11 @@
                 </li>
 
                 <li>
-                    [44] S. Raj, R.A. Fritz, F. Herrera, Y. Colón, Understanding Correlation Between Structure 
-                         and Entangled Photon Pair Properties with Metal-Organic Frameworks, J. Phys. Chem. C (in press), 2023. 
-                         <a href="https://doi.org/10.26434/chemrxiv-2023-ljqrp" target="_blank">[Preprint]</a>
-                </li>
+                    [44] S. Raj, R.A. Fritz, F. Herrera, Y. Colón, <a href="https://pubs.acs.org/doi/10.1021/acs.jpcc.3c00355">Understanding Correlation Between Structure 
+                         and Entangled Photon Pair Properties with Metal-Organic Frameworks</a>, J. Phys. Chem. C (in press), 2023. 
+                         <a href="/assets/papers/2023 Understanding the Correlation Between Structure and Entangled Photon Pair Properties with Metal-Organic Frameworks.pdf" target="_blank">[PDF]</a>.
+                         <strong>Selected for special issue “Early-Career and Emerging Researchers in Physical Chemistry vol 2"</strong>.
+                        </li>
 
                 <li>
                     [43] W. Ahn, J. F. Triana, F. Recabal, F. Herrera, B. Simpkins, Modification of ground state chemical reactivity 
