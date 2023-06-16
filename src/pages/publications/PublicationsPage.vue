@@ -15,15 +15,15 @@
 
                 <li>
                     [44] S. Raj, R.A. Fritz, F. Herrera, Y. Colón, <a href="https://pubs.acs.org/doi/10.1021/acs.jpcc.3c00355">Understanding Correlation Between Structure 
-                         and Entangled Photon Pair Properties with Metal-Organic Frameworks</a>, J. Phys. Chem. C (in press), 2023. 
+                         and Entangled Photon Pair Properties with Metal-Organic Frameworks</a>, J. Phys. Chem. C 127, 10987, 2023. 
                          <a href="/assets/papers/2023 Understanding the Correlation Between Structure and Entangled Photon Pair Properties with Metal-Organic Frameworks.pdf" target="_blank">[PDF]</a>.
                          <strong>Selected for special issue “Early-Career and Emerging Researchers in Physical Chemistry vol 2"</strong>.
                         </li>
 
                 <li>
-                    [43] W. Ahn, J. F. Triana, F. Recabal, F. Herrera, B. Simpkins, Modification of ground state chemical reactivity 
-                        via light-matter coherence in infrared cavities, Science (in press), 2023. 
-                        <a href="https://doi.org/10.26434/chemrxiv-2022-wb6vs-v2" target="_blank">[Preprint]</a>
+                    [43] W. Ahn, J. F. Triana, F. Recabal, F. Herrera, B. Simpkins, <a href="https://www.science.org/doi/10.1126/science.ade7147"> Modification of ground state chemical reactivity 
+                        via light-matter coherence in infrared cavities</a>, Science 380, 1165, 2023. 
+                        <a href="/assets/papers/2023 Modification of ground-state chemical reactivity via light–matter coherence in infrared cavities.pdf" target="_blank">[PDF]</a>.
                 </li>
 
                 <li>
