@@ -24,6 +24,8 @@
                     [43] W. Ahn, J. F. Triana, F. Recabal, F. Herrera, B. Simpkins, <a href="https://www.science.org/doi/10.1126/science.ade7147"> Modification of ground state chemical reactivity 
                         via light-matter coherence in infrared cavities</a>, Science 380, 1165, 2023. 
                         <a href="/assets/papers/2023 Modification of ground-state chemical reactivity via light–matter coherence in infrared cavities.pdf" target="_blank">[PDF]</a>.
+                        <strong>Featured in <a href="https://phys.org/news/2023-06-theoretical-discovery-path-quantum-physics.html">Phys.Org</a></strong> and 
+                        <strong><a href="https://www.eurekalert.org/news-releases/992148">EureKAlert</a></strong>.
                 </li>
 
                 <li>
