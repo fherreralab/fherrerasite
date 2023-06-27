@@ -7,6 +7,12 @@
                 <li><strong>2023</strong></li>
                 
                 <li>
+                    [46] K. Aruachan, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://arxiv.org/abs/2306.13790">Semi-Empirical Haken-Strobl Model 
+                        for Molecular Spin Qubits</a>, arXiv:2306.13790.
+                </li>
+                
+            
+                <li>
                     [45] D. Hidalgo, J. M. García-Garfido, J. Enríquez, R. Rojas-Aedo, R. A. Wheatley, 
                     R. A. Fritz, D. P. Singh, F. Herrera, B. Seifert, Phase-Coherent Optical Frequency Up-Conversion 
                         with Millimeter-Size Zn(3-ptz)2 Metal-Organic Framework Single Crystals, 
