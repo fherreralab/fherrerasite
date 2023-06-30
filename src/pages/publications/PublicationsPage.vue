@@ -7,6 +7,12 @@
                 <li><strong>2023</strong></li>
                 
                 <li>
+                    [47] F. Recabal, F. Herrera, <a href="https://arxiv.org/abs/2306.16789">Driven-Dissipative Conductance in Nanojunction Arrays: 
+                        Negative Conductance and Light-Induced Currents</a>, arXiv:2306.16789.
+                </li>
+
+
+                <li>
                     [46] K. Aruachan, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://arxiv.org/abs/2306.13790">Semi-Empirical Haken-Strobl Model 
                         for Molecular Spin Qubits</a>, arXiv:2306.13790.
                 </li>
