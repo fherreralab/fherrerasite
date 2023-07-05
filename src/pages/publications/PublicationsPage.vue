@@ -20,9 +20,9 @@
             
                 <li>
                     [45] D. Hidalgo, J. M. García-Garfido, J. Enríquez, R. Rojas-Aedo, R. A. Wheatley, 
-                    R. A. Fritz, D. P. Singh, F. Herrera, B. Seifert, Phase-Coherent Optical Frequency Up-Conversion 
-                        with Millimeter-Size Zn(3-ptz)2 Metal-Organic Framework Single Crystals, 
-                        Adv. Opt. Mat. (in press), 2023. 
+                    R. A. Fritz, D. P. Singh, F. Herrera, B. Seifert, <a href="https://onlinelibrary.wiley.com/doi/10.1002/adom.202300142#">Phase-Coherent Optical Frequency Up-Conversion 
+                        with Millimeter-Size Zn(3-ptz)2 Metal-Organic Framework Single Crystals</a>, 
+                        Adv. Opt. Mat. 2300142, 2023. <a href="/assets/papers/2023 Phase-Coherent Optical Frequency Up-Conversion with Millimeter-Size Zn(3-ptz)2 Metal-Organic Framework Single Crystals.pdf" target="_blank">[PDF]</a>.
                 </li>
 
                 <li>
