@@ -5,6 +5,11 @@
 
             <ul>            
                 <li><strong>2023</strong></li>
+
+                <li>
+                    [48] S. Raj, S. Paiva, R.A. Fritz, F. Herrera, Y.J. Colón, <a href="https://arxiv.org/abs/2309.04781">First-Principles Screening of Metal-Organic Frameworks for Entangled Photon Pair Generation</a>, 
+                    arXiv:2309.04781.
+                </li>
                 
                 <li>
                     [47] F. Recabal, F. Herrera, <a href="https://arxiv.org/abs/2306.16789">Driven-Dissipative Conductance in Nanojunction Arrays: 
@@ -13,8 +18,9 @@
 
 
                 <li>
-                    [46] K. Aruachan, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://arxiv.org/abs/2306.13790">Semi-Empirical Haken-Strobl Model 
-                        for Molecular Spin Qubits</a>, arXiv:2306.13790.
+                    [46] K. Aruachan, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/acf2bd">Semi-Empirical Haken-Strobl Model 
+                        for Molecular Spin Qubits</a>, New J. Phys. 25, 093031, 2023. 
+                        <a href="/assets/papers/2023 Semi-empirical Haken–Strobl model for molecular spin qubits.pdf" target="_blank">[PDF]</a>.
                 </li>
                 
             
