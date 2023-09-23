@@ -32,27 +32,28 @@
             <div class="container">
                 <div class="row text-center">
                     <h2>Principal Investigator</h2>
-                    <div class="col"></div>
-                    <div class="col">
+                    <hr>
+
+                    <div class="col-md-4 col-sm-12">
                         <PeopleCard name="Prof. Felipe Herrera">
                             <template v-slot:imagen>
                                 <img class="img-fluid" :src="require(`../../../public/assets/fherrera.jpg`)" alt="">
                             </template>
                             
                             <template v-slot:contenido>
-                                <p>Assistant Professor, Department of Physics,</p>
-                                <p>Universidad de Santiago de Chile, USACH</p>
-                                <a href="/assets/cv/cvfelipe.pdf" target="_blank">[Curriculum Vitae]</a>
+                                <p>Assistant Professor,</p>
+                                <p>Department of Physics, USACH</p>
+                                <a href="/assets/cv/cvfelipe.pdf" target="_blank">[CV]</a>
                             </template>
                             
                             <template v-slot:redessociales>
                                 <div class="d-flex justify-content-center">
                                     <a class="mx-1 border border-light-subtle rounded p-1"
                                     href="https://twitter.com/faherreraur">
-                                    <font-awesome-icon icon="fa-brands fa-twitter" size="3x" /></a>
+                                    <font-awesome-icon icon="fa-brands fa-twitter" size="2x" /></a>
                                     <a class="mx-1 border border-light-subtle rounded p-1"
                                         href="https://github.com/fherreralab">
-                                        <font-awesome-icon icon="fa-brands fa-github" size="3x" /> </a>
+                                        <font-awesome-icon icon="fa-brands fa-github" size="2x" /> </a>
                                 </div>
                             </template>
                         </PeopleCard>
@@ -62,21 +63,24 @@
                 <hr>
                 <div class="row text-center">
                     <h2>Postdoctoral Researchers</h2>
-                    <div class="col-md-4 col-sm-12">
-                        <PeopleCard name="Dra. Thulasi Bikku">
+                    <hr>
+
+                    <div class="col-md-6 col-sm-12">
+                        <PeopleCard name="Dr. Adrian Rubio">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/group_news_images/thulasi-profile.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
                                     alt="">
                             </template>
 
                             <template v-slot:contenido>
-                                <p>Postdoctoral Researcher</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
+                                <p>PhD Physics 2015 </p>
+                                <p>Universidad de Buenos Aires</p>
+                                <p>Non-equilibrium QED, Nanophotonics</p>
                             </template>
                         </PeopleCard>
                     </div>
 
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Dr. Rubén Fritz">
                             <template v-slot:imagen>
                                 <img class="max-image-size"
@@ -84,30 +88,20 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>Postdoctoral Researcher</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
-
-                    <div class="col-md-4 col-sm-12">
-                        <PeopleCard name="Dr. Johan Triana">
-                            <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/people/JohanTriana.jpg`)"
-                                    alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>Postdoctoral Researcher</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
+                                <p>PhD Applied Science 2018 </p>
+                                <p>Universidad de Talca</p>
+                                <p>Computational Chemistry, MOF Optics</p>
                             </template>
                         </PeopleCard>
                     </div>
                 </div>
 
                 <hr>
+                
                 <div class="row text-center">
                     <h2>PhD Students</h2>
+                    <hr>
+                   
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Katy Arauchan">
                             <template v-slot:imagen>
@@ -116,11 +110,12 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Student</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
+                                <p>PhD Physics 2024</p>
+                                <p>Molecular Spin Qubits, Quantum Control</p>
                             </template>
                         </PeopleCard>
                     </div>
+
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Felipe Recabal">
                             <template v-slot:imagen>
@@ -129,11 +124,12 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Student</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
+                                <p>PhD Physics 2025</p>
+                                <p>Molecular cavity QED, Quantum Transport</p>
                             </template>
                         </PeopleCard>
                     </div>
+
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Athul Sivan">
                             <template v-slot:imagen>
@@ -142,11 +138,12 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Student</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
+                                <p>PhD Physics 2025</p>
+                                <p>Macroscopic QED, Nanophotonics</p>
                             </template>
                         </PeopleCard>
                     </div>
+
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Mauricio Arias">
                             <template v-slot:imagen>
@@ -155,18 +152,35 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Student</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
+                                <p>PhD Physics 2023</p>
+                                <p>Quantum Optics, Nanophotonics</p>
                             </template>
                         </PeopleCard>
                     </div>
+                    
+                    <div class="col-md-6 col-sm-12">
+                    <PeopleCard name="Gastón González">
+                            <template v-slot:imagen>
+                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                    alt="">
+                            </template>
+
+                            <template v-slot:contenido>
+                                <p>PhD Physics 2025</p>
+                                <p>Condensed Matter, MOF Physics</p>
+                            </template>
+                        </PeopleCard>   
+                    </div> 
+
                 </div>
                 <hr>
 
+        
                 <div class="row text-center">
-                    <h2>Master Students</h2>
-                    <div class="col-md-3"></div>
-                    <div class="col-md-6">
+                    <h2>Research Assistants</h2>
+                    <hr>
+
+                    <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Simón Paiva">
                             <template v-slot:imagen>
                                 <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
@@ -174,67 +188,13 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>Master Student</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
+                                <p>MSc Physics 2022</p>
+                                <p>Machine Learning for Optics</p>
                             </template>
                         </PeopleCard>
                     </div>
-                    <div class="col-md-3"></div>
-                </div>
-                <hr>
-                <div class="row text-center">
-                    <h2>Research Assistants</h2>
-                    <div class="col-md-3"></div>
-                    <div class="col-md-6">
-                        <PeopleCard name="Gastón González">
-                            <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
-                                    alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>Master Student</p>
-                                <p>Department of Physics, Universidad de Santiago de Chile, USACH</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
-                    <div class="col-md-3"></div>
-                </div>
-                <hr>
-
-                <div class="row text-center">
-                    <h2>Undegraduate Students</h2>
-                    <div class="col-md-4 col-sm-12">
-                        <PeopleCard name="Bastián Martínez">
-                            <template v-slot:imagen>
-                                <img class="max-image-size"
-                                    :src="require(`../../../public/assets/people/bastianMartinez.jpg`)" alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>Undergraduate Student</p>
-                                <p>Department of Mathematics and Computer Science, </p>
-                                <p>Universidad de Santiago de Chile, USACH</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
-
-                    <div class="col-md-4 col-sm-12">
-                        <PeopleCard name="Felipe Osorio">
-                            <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
-                                    alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>Undergraduate Student</p>
-                                <p>Department of Mathematics and Computer Science, </p>
-                                <p>Universidad de Santiago de Chile, USACH</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
-
-                    <div class="col-md-4 col-sm-12">
+                    
+                    <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Fernanda Véliz">
                             <template v-slot:imagen>
                                 <img class="max-image-size" :src="require(`../../../public/assets/people/FernandaVeliz.jpg`)"
@@ -242,23 +202,57 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>Undergraduate Student</p>
-                                <p>Department of Mathematics and Computer Science, </p>
-                                <p>Universidad de Santiago de Chile, USACH</p>
+                                <p>BSc Computer Science 2023</p>
+                                <p>Machine Learning for Materials</p>
                             </template>
                         </PeopleCard>
                     </div>
+
+                <div class="col-md-6 col-sm-12">
+                        <PeopleCard name="Bastián Martínez">
+                            <template v-slot:imagen>
+                                <img class="max-image-size"
+                                    :src="require(`../../../public/assets/people/bastianMartinez.jpg`)" alt="">
+                            </template>
+
+                            <template v-slot:contenido>
+                                <p>BSc Computer Science 2024</p>
+                                <p>Machine Learning for Optics</p>
+                            </template>
+                        </PeopleCard>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12">
+                        <PeopleCard name="Felipe Osorio">
+                            <template v-slot:imagen>
+                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                    alt="">
+                            </template>
+
+                            <template v-slot:contenido>
+                                <p>BSc Computer Science 2024</p>
+                                <p>USACH</p>
+                                <p>Machine Learning for Optics</p>
+                            </template>
+                        </PeopleCard>
+                    </div>
+
+                   
+                
                 </div>
+
                 <hr>
 
+        
+        <!-- <div class="row text-center">        -->
                 <div class="container">
                     <PeopleSet title="Alumni" :group_people="alumni" />
+                    
                 </div>
             </div>
         </div>
     </div>
 </template>
-
 
 
 <script setup>
@@ -269,14 +263,14 @@ import { ref } from 'vue';
 const alumni = ref([]);
 
 const fillAlumni = () => {
-    const names = ['Melissa Silva', 'Vanessa Olaya', 'Ignacio Chi',
+    const names = ['Thulasi Bikku','Johan Triana','Melissa Silva', 'Vanessa Olaya', 'Ignacio Chi',
         'Jonathan Sepúlveda', 'Federico Hernández', 'Iván Jara', 'Diego Carvajal'];
 
-    const grade_name = ['BSc Computer Science 2023', 'MSc Physics 2020',
+    const grade_name = ['Postdoc 2021-2023','Postdoc 2019-2023','BSc Computer Science 2023', 'MSc Physics 2020',
         'Research Assistant 2017-2020', 'MSc Physics 2020', 'Postdoc 2019',
         'BSc Engineering Physics 2020', 'BSc Math 2018'];
 
-    const university = ['Then Evernote intern', 'Then PhD student at University of Sydney',
+    const university = ['Then Assist. Prof. at Vignan Nirula Institute of Technology and Science for Women,India','Then Assist. Prof. Dept. of Physics at Universidad Católica del Norte, Chile','Then Evernote intern', 'Then PhD student at University of Sydney',
         'Then PhD student at University of Chicago', 'Then PhD student at UPV/EHU',
         'Then postdoc at Queen Mary University of London', 'Then data scientist in health start-up',
         'Then science outreach'

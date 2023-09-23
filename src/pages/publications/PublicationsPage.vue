@@ -7,6 +7,13 @@
                 <li><strong>2023</strong></li>
 
                 <li>
+                    [49] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://arxiv.org/abs/2309.12216">Coherent anharmonicity transfer from matter to light in the THz regime</a>, 
+                    arXiv:2309.12216.
+                </li>
+               
+
+
+                <li>
                     [48] S. Raj, S. Paiva, R.A. Fritz, F. Herrera, Y.J. Colón, <a href="https://arxiv.org/abs/2309.04781">First-Principles Screening of Metal-Organic Frameworks for Entangled Photon Pair Generation</a>, 
                     arXiv:2309.04781.
                 </li>
