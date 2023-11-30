@@ -7,6 +7,13 @@
                 <li><strong>2023</strong></li>
 
                 <li>
+                    [50] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2311.17263">
+                        Giant Generation of Polarization-Entangled Photons in Metal Organic Framework Waveguides</a>, 
+                    arXiv:2311.17263.
+                </li>
+
+
+                <li>
                     [49] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://arxiv.org/abs/2309.12216">Coherent anharmonicity transfer from matter to light in the THz regime</a>, 
                     arXiv:2309.12216.
                 </li>
