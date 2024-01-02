@@ -270,10 +270,10 @@ const fillAlumni = () => {
         'Research Assistant 2017-2020', 'MSc Physics 2020', 'Postdoc 2019',
         'BSc Engineering Physics 2020', 'BSc Math 2018'];
 
-    const university = ['Then Assist. Prof. at Vignan Nirula Institute of Technology and Science for Women,India','Then Assist. Prof. Dept. of Physics at Universidad Católica del Norte, Chile','Then Evernote intern', 'Then PhD student at University of Sydney',
-        'Then PhD student at University of Chicago', 'Then PhD student at UPV/EHU',
-        'Then postdoc at Queen Mary University of London', 'Then data scientist in health start-up',
-        'Then science outreach'
+    const university = ['then Assist. Prof. at Vignan Nirula Institute of Technology and Science for Women,India','then Assist. Prof. Dept. of Physics at Universidad Católica del Norte, Chile','Then Evernote intern', 'Then PhD student at University of Sydney',
+        'then PhD student at University of Chicago', 'then PhD student at UPV/EHU',
+        'then postdoc at Queen Mary University of London', 'then data scientist in health start-up',
+        'then science outreach'
     ];
 
     for (let i = 0; i < names.length; i++) {

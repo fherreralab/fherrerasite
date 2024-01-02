@@ -3,21 +3,23 @@
         <template v-slot:contenido>
             <h1 clasS="text-center">Publications</h1>
 
-            <ul>            
+            <ul>
+                
+                <li><strong>2024</strong></li>
+
+                <li>
+                    [50] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad153b">Coherent anharmonicity transfer from matter to light in the THz regime</a>, 
+                    New J. Phys.(Accepted) DOI 10.1088/1367-2630/ad153b, 2024. 
+                </li>
+
+
                 <li><strong>2023</strong></li>
 
                 <li>
-                    [50] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2311.17263">
+                    [49] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2311.17263">
                         Giant Generation of Polarization-Entangled Photons in Metal Organic Framework Waveguides</a>, 
                     arXiv:2311.17263.
                 </li>
-
-
-                <li>
-                    [49] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://arxiv.org/abs/2309.12216">Coherent anharmonicity transfer from matter to light in the THz regime</a>, 
-                    arXiv:2309.12216.
-                </li>
-               
 
 
                 <li>
