@@ -56,6 +56,18 @@
             <img class="img-fluid" src="/assets/einstein-thesis.jpeg">
 
             <h3 class="azulado-oscuro">
+                Doctoral
+            </h3>
+
+            <ul>
+                <li>
+                    M. Arias, <a href="/assets/resources/phd-thesis-marias.pdf" target="_blank">Infrared cavity quantum electrodynamics with anharmonic oscillators in nanophotonics</a>, 
+                    PhD Physics (2023)
+                </li>
+
+            </ul>
+
+            <h3 class="azulado-oscuro">
                 Masters
             </h3>
 
@@ -93,7 +105,11 @@
                     F. Véliz, <a href="/assets/resources/thesis-fveliz.pdf" target="_blank"> Predicción de materiales bioplásticos 
                         por medio de aprendizaje no supervisado</a>, Computer Science (2023).
                 </li>
-
+                <li>
+                    F. Osorio, <a href="/assets/resources/thesis-fosorio.pdf" target="_blank"> Identificación óptica de compuestos orgánicos
+                         usando clasificación Random Forest</a>, Computer Science (2022).
+                </li>
+                
                 <li>
                     S. Paiva, <a href="/assets/resources/thesis-spaiva.pdf" target="_blank">Regresión de datos en
                         elipsometría de Mueller usando inteligencia artificial</a>, Engineering Physics (2020).
