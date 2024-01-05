@@ -9,7 +9,7 @@
 
                 <li>
                     [50] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad153b">Coherent anharmonicity transfer from matter to light in the THz regime</a>, 
-                    New J. Phys.(Accepted) DOI 10.1088/1367-2630/ad153b, 2024. 
+                    New J. Phys. 26, 013003, 2024. 
                 </li>
 
 
