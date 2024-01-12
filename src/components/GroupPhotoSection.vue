@@ -1,5 +1,5 @@
 <template>
-    <div class="text-center">
+    <div class="text-center mb-5">
         <img class="img-fluid" :src="photoSrc" alt="">
         <p>
             <strong>{{ date }}</strong> - {{ description }}
