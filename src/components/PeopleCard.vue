@@ -1,7 +1,6 @@
 <template>
-
-    <div class="container px-5">
-        <slot name="imagen"></slot>
+    <div class="container people-card px-5">
+        <slot class="container-imagen" name="imagen"></slot>
         <h3>
             <strong>{{ name }}</strong>
         </h3>
@@ -10,7 +9,6 @@
         <slot name="redessociales"></slot>
 
     </div>
-
 </template>
 
 <script setup>
@@ -21,3 +19,16 @@ defineProps({
 })
 
 </script>
+
+<style scoped>
+
+.people-card {
+    padding: 15px; /* Ajusta según sea necesario */
+    margin-bottom: 15px; /* Espaciado entre tarjetas */
+}
+
+.container {
+    padding: 20px; /* Esto añade un relleno en todos los lados del contenedor */
+}
+
+</style>
