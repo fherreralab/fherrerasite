@@ -44,6 +44,7 @@
                         </PeopleCard>
                     </div>
                     <div class="col-md-4">
+                    <!-- Put a short bio here -->
                     </div>
                 </div>
                 <hr>
