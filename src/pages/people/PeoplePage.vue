@@ -19,7 +19,7 @@
                 <div class="row text-center">
                     <h2>Principal Investigator</h2>
 
-                    <div class="col-9">
+                    <div class="col-8">
                         <PeopleCard name="Prof. Felipe Herrera">
                             <template v-slot:imagen>
                                 <img class="img-fluid" :src="require(`../../../public/assets/fherrera.jpg`)" alt="">
@@ -43,10 +43,7 @@
                             </template>
                         </PeopleCard>
                     </div>
-                    <div class="col-md-3 d-flex justify-content-start align-items-center">
-                        <p>
-                            <!-- Aquí escriba su breve biografía -->
-                        </p>
+                    <div class="col-md-4">
                     </div>
                 </div>
                 <hr>
