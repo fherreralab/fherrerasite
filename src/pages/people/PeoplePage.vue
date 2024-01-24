@@ -44,7 +44,10 @@
                         </PeopleCard>
                     </div>
                     <div class="col-md-3 d-flex justify-content-start align-items-center">
+                        <h1>Brief Bio</h1>
                         <p>
+                            This is the bio...
+
                             <!-- Aquí escriba su breve biografía -->
                         </p>
                     </div>
@@ -56,7 +59,7 @@
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Dr. Adrian Rubio">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/bastianMartinez.jpg`)"
                                     alt="">
                             </template>
 
