@@ -4,6 +4,8 @@
             <div class="col"></div>
             <div class="col-10">
                 <h1 class="text-center">People</h1>
+                <GroupPhotoSection :photoSrc="require(`../../../public/assets/group-aug-2023.jpg`)" date="August 2023"
+                    description="Left to right: Katy, Fernanda, Mauricio, Felipe O., Osmar, Bastián, Athul, Adrián, Simón, Rubén, Johan, Gastón." />
                 <GroupPhotoSection :photoSrc="require(`../../../public/assets/group-april-2022.jpg`)" date="April 2022"
                     description="Left to right: Gastón, Athul, Felipe R., Rubén, Felipe H., Katy, Mauricio, Johan, Bastián, Fernanda." />
                 <GroupPhotoSection :photoSrc="require(`../../../public/assets/group-sep-2019.jpg`)" date="Sep. 2019"
@@ -17,17 +19,27 @@
         <div class="row justify-content-center">
             <div class="container">
                 <div class="row text-center">
-                    <h2>Principal Investigator</h2>
+                    <h2>Prof. Felipe Herrera</h2>
 
                     <div class="col-8">
-                        <PeopleCard name="Prof. Felipe Herrera">
+                        <PeopleCard name="">
                             <template v-slot:imagen>
                                 <img class="img-fluid" :src="require(`../../../public/assets/fherrera.jpg`)" alt="">
                             </template>
 
-                            <template v-slot:contenido>
-                                <p>Assistant Professor,</p>
-                                <p>Department of Physics, USACH</p>
+                            <template v-slot:redessociales>
+                                <div class="d-flex justify-content-center">
+                                    <a class="m-1 border border-light-subtle rounded p-1"
+                                        href="https://twitter.com/faherreraur">
+                                        <font-awesome-icon icon="fa-solid fa-x" size="3x" /></a>
+                                    <a class="m-1 border border-light-subtle rounded p-1"
+                                        href="https://github.com/fherreralab">
+                                        <font-awesome-icon icon="fa-brands fa-github" size="3x" /> </a>
+                                </div>
+                            </template>
+
+          <!----                  <template v-slot:contenido>
+
                                 <a href="/assets/cv/cvfelipe.pdf" target="_blank">[CV]</a>
                             </template>
 
@@ -40,31 +52,62 @@
                                         href="https://github.com/fherreralab">
                                         <font-awesome-icon icon="fa-brands fa-github" size="2x" /> </a>
                                 </div>
-                            </template>
+                            </template> --->                 
                         </PeopleCard>
-                    </div>
-<<<<<<< HEAD
-                    <div class="col-md-3 d-flex justify-content-start align-items-center">
-                        <h1>Brief Bio</h1>
-                        <p>
-                            This is the bio...
-
-                            <!-- Aquí escriba su breve biografía -->
-                        </p>
-=======
+                    </div> 
+        
+            
                     <div class="col-md-4">
                     <!-- Put a short bio here -->
->>>>>>> 790a54700d0b0d81b6423021a9f76c6a320ec306
+                    <h3 align="left">Brief Bio</h3>
+                    <p align="left">Felipe obtained the PhD from the University of British Columbia working 
+                        on quantum control with cold molecules in the group of Roman Krems. 
+                        In 2012, he moved to Harvard University as a postdoctoral researcher under the joint
+                         supervision of Sabre Kais (Purdue University) and Alan Aspuru-Guzik (Harvard CCB). In 2014 
+                         he joined Universidad de Santiago de Chile as faculty in the Department of Physics, 
+                         where he founded the Molecular Quantum Technology group. 
+                         <br />
+
+                         <a href="/assets/cv/cvfelipe.pdf" target="_blank">[Curriculum Vitae]</a> </p>
+                    
+                         <br />
+                    <h3 align="left">Contact Info</h3>     
+                    <p align="left">
+                        <strong>Email</strong>: felipe.herrera.u@usach.cl
+                        <strong>Phone</strong>: +56 227181203
+                        <br />
+                        Av. Victor Jara 3493 <br />
+                        Postal Code 9170124 <br />
+                        Estación Central, Santiago, Chile. 
+                    </p>
+
                     </div>
+                    
                 </div>
                 <hr>
                 <div class="row text-center">
                     <h2>Postdoctoral Researchers</h2>
 
                     <div class="col-md-6 col-sm-12">
+                        <PeopleCard name="Dr. Rubén Fritz">
+                            <template v-slot:imagen>
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/rubenfritz.jpeg`)"
+                                    alt="">
+                            </template>
+
+                            <template v-slot:contenido>
+                                <p>PhD Applied Science 2018 </p>
+                                <p>Universidad de Talca</p>
+                                <p>Computational Chemistry, MOF Optics</p>
+                            </template>
+                        </PeopleCard>
+                    </div>
+                  
+                  
+                    <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Dr. Adrian Rubio">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/people/bastianMartinez.jpg`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/adrianrubio.jpeg`)"
                                     alt="">
                             </template>
 
@@ -76,20 +119,23 @@
                         </PeopleCard>
                     </div>
 
+               
+
+
                     <div class="col-md-6 col-sm-12">
-                        <PeopleCard name="Dr. Rubén Fritz">
+                        <PeopleCard name="Dr. Mauricio Arias">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
-                                    alt="">
+                                <img class="max-image-size"
+                                    :src="require(`../../../public/assets/people/mauricioArias.jpeg`)" alt="">
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Applied Science 2018 </p>
-                                <p>Universidad de Talca</p>
-                                <p>Computational Chemistry, MOF Optics</p>
+                                <p>PhD Physics 2023</p>
+                                <p>Quantum Optics, Nanophotonics</p>
                             </template>
                         </PeopleCard>
                     </div>
+
                 </div>
 
                 <hr>
@@ -128,7 +174,7 @@
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Athul Sivan">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/people/AthulS.jpg`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/athulsivan.jpg`)"
                                     alt="">
                             </template>
 
@@ -139,24 +185,11 @@
                         </PeopleCard>
                     </div>
 
-                    <div class="col-md-6 col-sm-12">
-                        <PeopleCard name="Mauricio Arias">
-                            <template v-slot:imagen>
-                                <img class="max-image-size"
-                                    :src="require(`../../../public/assets/people/mauricioArias.jpeg`)" alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>PhD Physics 2023</p>
-                                <p>Quantum Optics, Nanophotonics</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
 
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Gastón González">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/gastongonzalez.jpeg`)"
                                     alt="">
                             </template>
 
@@ -177,7 +210,7 @@
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Simón Paiva">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/simonpaiva.jpeg`)"
                                     alt="">
                             </template>
 
@@ -219,7 +252,7 @@
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Felipe Osorio">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/felipeosorio.jpeg`)"
                                     alt="">
                             </template>
 
@@ -231,8 +264,35 @@
                         </PeopleCard>
                     </div>
 
+                    <div class="col-md-6 col-sm-12">
+                        <PeopleCard name="Andrea Alarcón">
+                            <template v-slot:imagen>
+                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                    alt="">
+                            </template>
 
+                            <template v-slot:contenido>
+                                <p>BSc Engineering Physics 2024</p>
+                                <p>USACH</p>
+                                <p>Optical Device Physics</p>
+                            </template>
+                        </PeopleCard>
+                    </div>
 
+                    <div class="col-md-6 col-sm-12">
+                        <PeopleCard name="Osmar Aravena">
+                            <template v-slot:imagen>
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/osmararavena.jpeg`)"
+                                    alt="">
+                            </template>
+                            
+                            <template v-slot:contenido>
+                                <p>BSc Engineering Physics 2025</p>
+                                <p>USACH</p>
+                                <p>Optical Device Physics</p>
+                            </template>
+                        </PeopleCard>
+                    </div>
                 </div>
 
                 <hr>
