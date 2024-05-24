@@ -45,6 +45,7 @@ import DrFedericoHernandezJoins from './pages/group_news/news/welcome/DrFederico
 import RubenFritzJoins from './pages/group_news/news/welcome/RubenFritzJoins.vue';
 
 // Graduation
+import BastianMartinezDefendsUndergradThesis from './pages/group_news/news/graduation/BastianMartinezDefendsUndergradThesis.vue';
 import FernandaVelizDefendsUndergradThesis from './pages/group_news/news/graduation/FernandaVelizDefendsUndergradThesis.vue';
 import SimonPaivaDefendsMasterThesis from './pages/group_news/news/graduation/SimonPaivaDefendsMasterThesis.vue';
 import GastonDefendsMasterThesis from './pages/group_news/news/graduation/GastonDefendsMasterThesis.vue';
@@ -68,6 +69,15 @@ import FirstWorkshopMQT from './pages/group_news/news/events/FirstWorkshopMQT.vu
 
 export const group_news_routes = [
    
+    {
+        path: '/graduation-2024-04-20-Bastian-Martinez-successfully-defends-his-undergraduate-thesis',
+        name: 'BastianMartinezDefendsUndergradThesis',
+        title: 'Bastián Martínez successfully defends his undergraduate thesis',
+        date: "Apr 20, 2024",
+        component: BastianMartinezDefendsUndergradThesis
+    },
+
+
     {
         path: '/graduation-2023-04-27-Fernanda-Veliz-successfully-defends-her-undergraduate-thesis',
         name: 'FernandaVelizDefendsUndergradThesis',

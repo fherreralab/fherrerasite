@@ -101,6 +101,10 @@
             </h3>
 
             <ul>
+
+                <li>
+                    B. Martínez, <a href="/assets/resources/thesis-bmartinez.pdf" target="_blank"> Diseño Inverso de cavidades Fabry-Perot utilizando redes neuronales </a>, Computer Science (2024).
+                </li>
                 <li>
                     F. Véliz, <a href="/assets/resources/thesis-fveliz.pdf" target="_blank"> Predicción de materiales bioplásticos 
                         por medio de aprendizaje no supervisado</a>, Computer Science (2023).
