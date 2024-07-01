@@ -8,8 +8,13 @@
                 <li><strong>2024</strong></li>
                 
                 <li>
+                    [51] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2211.08300v2">Molecular Strong Coupling and 
+                        Cavity Finesse</a>, arXiv:2211.8300v2, 2024.
+                </li>
+
+                <li>
                     [50] S. Raj, S. Paiva, R.A. Fritz, F. Herrera, Y.J. Colón, <a href="https://iopscience.iop.org/article/10.1088/2633-4356/ad2c96">First-Principles Screening of Metal-Organic Frameworks for Entangled Photon Pair Generation</a>, 
-                    Mater. Quantum. Technol. (Accepted) DOI 10.1088/2633-4356/ad2c96.
+                    Mater. Quantum. Technol. Mater. Quantum. Technol. 4 015404, 2024. <a href="/assets/papers/2024 First-principles screening of metal–organic frameworks for entangled photon pair generation.pdf" target="_blank">[PDF]</a>.
                 </li>
 
                 <li>
