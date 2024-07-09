@@ -6,30 +6,36 @@
             <ul>
                 
                 <li><strong>2024</strong></li>
-                
+               
                 <li>
-                    [51] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2211.08300v2">Molecular Strong Coupling and 
-                        Cavity Finesse</a>, arXiv:2211.8300v2, 2024.
+                    [52] F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2407.04904">Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities</a>,
+                    arXiv:2407.04904, 2024.
                 </li>
 
                 <li>
-                    [50] S. Raj, S. Paiva, R.A. Fritz, F. Herrera, Y.J. Colón, <a href="https://iopscience.iop.org/article/10.1088/2633-4356/ad2c96">First-Principles Screening of Metal-Organic Frameworks for Entangled Photon Pair Generation</a>, 
+                    [51] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2311.17263">
+                        Giant Generation of Polarization-Entangled Photons in Metal Organic Framework Waveguides</a>, arXiv:2311.17263.
+                </li>
+
+                <li>
+                    [50] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2211.08300v2">Molecular Strong Coupling and 
+                        Cavity Finesse</a>, J. Phys. Chem. Lett. (in press), arXiv:2211.8300v2, 2024.
+                </li>
+
+                <li>
+                    [49] S. Raj, S. Paiva, R.A. Fritz, F. Herrera, Y.J. Colón, <a href="https://iopscience.iop.org/article/10.1088/2633-4356/ad2c96">First-Principles Screening of Metal-Organic Frameworks for Entangled Photon Pair Generation</a>, 
                     Mater. Quantum. Technol. Mater. Quantum. Technol. 4 015404, 2024. <a href="/assets/papers/2024 First-principles screening of metal–organic frameworks for entangled photon pair generation.pdf" target="_blank">[PDF]</a>.
                 </li>
 
                 <li>
-                    [49] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad153b">Coherent anharmonicity transfer from matter to light in the THz regime</a>, 
+                    [48] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad153b">Coherent anharmonicity transfer from matter to light in the THz regime</a>, 
                     New J. Phys. 26, 013003, 2024. <a href="/assets/papers/2024 Coherent anharmonicity transfer from matter to light in the THz regime.pdf" target="_blank">[PDF]</a>.
                 </li>
 
 
                 <li><strong>2023</strong></li>
 
-                <li>
-                    [48] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2311.17263">
-                        Giant Generation of Polarization-Entangled Photons in Metal Organic Framework Waveguides</a>, 
-                    arXiv:2311.17263.
-                </li>
+               
 
                 
                 <li>
