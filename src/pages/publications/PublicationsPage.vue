@@ -9,7 +9,7 @@
                
                 <li>
                     [52] F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2407.04904">Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities</a>,
-                    arXiv:2407.04904, 2024.
+                    arXiv:2407.04904, 2024. 
                 </li>
 
                 <li>
@@ -19,7 +19,7 @@
 
                 <li>
                     [50] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c00782">Molecular Strong Coupling and 
-                        Cavity Finesse</a>, J. Phys. Chem. Lett. 15, XXX, 7449–7457, 2024.
+                        Cavity Finesse</a>, J. Phys. Chem. Lett. 15, XXX, 7449–7457, 2024. <a href="/assets/papers/2024 Molecular Strong Coupling and Cavity Finesse.pdf" target="_blank">[PDF]</a>
                 </li>
 
                 <li>
