@@ -18,8 +18,8 @@
                 </li>
 
                 <li>
-                    [50] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2211.08300v2">Molecular Strong Coupling and 
-                        Cavity Finesse</a>, J. Phys. Chem. Lett. (in press), arXiv:2211.8300v2, 2024.
+                    [50] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c00782">Molecular Strong Coupling and 
+                        Cavity Finesse</a>, J. Phys. Chem. Lett. 15, XXX, 7449–7457, 2024.
                 </li>
 
                 <li>
