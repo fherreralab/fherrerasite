@@ -13,13 +13,14 @@
                 </li>
 
                 <li>
-                    [51] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://arxiv.org/abs/2311.17263">
-                        Giant Generation of Polarization-Entangled Photons in Metal Organic Framework Waveguides</a>, arXiv:2311.17263.
+                    [51] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-17-29514&id=554144">
+                        Efficient Generation of Polarization-Entangled Photons in Metal Organic Framework Waveguides</a>, Optics Express 32, 29514, 2024. 
+                        <a href="/assets/papers/2024 Efficient generation of polarization-entangled photons in metal-organic framework waveguides.pdf" target="_blank">[PDF]</a>
                 </li>
 
                 <li>
                     [50] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c00782">Molecular Strong Coupling and 
-                        Cavity Finesse</a>, J. Phys. Chem. Lett. 15, XXX, 7449–7457, 2024. <a href="/assets/papers/2024 Molecular Strong Coupling and Cavity Finesse.pdf" target="_blank">[PDF]</a>
+                        Cavity Finesse</a>, J. Phys. Chem. Lett. 15, 29, 7449–7457, 2024. <a href="/assets/papers/2024 Molecular Strong Coupling and Cavity Finesse.pdf" target="_blank">[PDF]</a>
                 </li>
 
                 <li>
