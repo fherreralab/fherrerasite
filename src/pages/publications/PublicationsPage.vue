@@ -8,7 +8,7 @@
                 <li><strong>2024</strong></li>
                
                 <li>
-                    [52] F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2407.04904">Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities</a>,
+                    [52] F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2407.04904">Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities</a>, Phil. Trans. [in press]
                     arXiv:2407.04904, 2024. 
                 </li>
 

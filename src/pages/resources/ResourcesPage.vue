@@ -38,12 +38,11 @@
                 <li>
                     <p>
                         <a href="https://arxiv.org/abs/1904.10537">An Instrument-Free Demonstration of Quantum Key
-                            Distribution
-                            for High-School Students </a>
+                            Distribution for High-School Students </a>
                     </p>
                     <p>
-                        <a href="http://fherreralab.com/assets/resources/QKD-demo-talk.pptx">[Slides]</a>
-                        (Spanish and English)
+                        <a href="/assets/resources/QKD-demo-talk-ES-V2.pdf" target="_blank"> Demonstration Slides "Protecting your Data with Quantum Physics" (in Spanish) </a>
+                        
                     </p>
 
                 </li>
