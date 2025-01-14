@@ -5,11 +5,19 @@
 
             <ul>
                 
+                <li><strong>2025</strong></li>
+               
+               <li>
+                   [53] F. Véliz, T. Bikku, D. Ibarra, V. Hernández, A. Garmulewicz, F. Herrera, Seaweed-Based Bioplastics: Data Mining Ingredient-Property Relations from the Scientific Literature, 
+                   DATA [In Press], 2025. <a href="https://zenodo.org/records/13927103" target="_blank">[CODE]</a>. 
+               </li>
+               
+
                 <li><strong>2024</strong></li>
                
                 <li>
-                    [52] F. Herrera, W.L. Barnes, <a href="https://arxiv.org/abs/2407.04904">Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities</a>, Phil. Trans. [in press]
-                    arXiv:2407.04904, 2024. 
+                    [52] F. Herrera, W.L. Barnes, <a href="https://doi.org/10.1098/rsta.2023.0343">Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities</a>, 
+                     Phil. Trans. R. Soc. A. 3822, 0230343, 2024 <a href="/assets/papers/2024 Multiple interacting photonic modes in strongly coupled organic microcavities.pdf" target="_blank">[PDF]</a>
                 </li>
 
                 <li>
@@ -25,7 +33,7 @@
 
                 <li>
                     [49] S. Raj, S. Paiva, R.A. Fritz, F. Herrera, Y.J. Colón, <a href="https://iopscience.iop.org/article/10.1088/2633-4356/ad2c96">First-Principles Screening of Metal-Organic Frameworks for Entangled Photon Pair Generation</a>, 
-                    Mater. Quantum. Technol. Mater. Quantum. Technol. 4 015404, 2024. <a href="/assets/papers/2024 First-principles screening of metal–organic frameworks for entangled photon pair generation.pdf" target="_blank">[PDF]</a>.
+                     Mater. Quantum. Technol. 4 015404, 2024. <a href="/assets/papers/2024 First-principles screening of metal–organic frameworks for entangled photon pair generation.pdf" target="_blank">[PDF]</a>.
                 </li>
 
                 <li>
