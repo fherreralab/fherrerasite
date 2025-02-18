@@ -122,7 +122,7 @@
                
 
 
-                    <div class="col-md-6 col-sm-12">
+                 <!--    <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Dr. Mauricio Arias">
                             <template v-slot:imagen>
                                 <img class="max-image-size"
@@ -134,7 +134,7 @@
                                 <p>Quantum Optics, Nanophotonics</p>
                             </template>
                         </PeopleCard>
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -151,7 +151,7 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Physics 2024</p>
+                                <p>PhD Physics (c) 2025</p>
                                 <p>Molecular Spin Qubits, Quantum Control</p>
                             </template>
                         </PeopleCard>
@@ -165,7 +165,7 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Physics 2025</p>
+                                <p>PhD Physics (c) 2025</p>
                                 <p>Molecular cavity QED, Quantum Transport</p>
                             </template>
                         </PeopleCard>
@@ -179,7 +179,7 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Physics 2025</p>
+                                <p>PhD Physics (c) 2025</p>
                                 <p>Macroscopic QED, Nanophotonics</p>
                             </template>
                         </PeopleCard>
@@ -194,7 +194,7 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Physics 2025</p>
+                                <p>PhD Physics (c) 2026</p>
                                 <p>Condensed Matter, MOF Physics</p>
                             </template>
                         </PeopleCard>
@@ -207,63 +207,7 @@
                 <div class="row text-center">
                     <h2>Research Assistants</h2>
 
-                    <div class="col-md-6 col-sm-12">
-                        <PeopleCard name="Simón Paiva">
-                            <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/people/simonpaiva.jpeg`)"
-                                    alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>MSc Physics 2022</p>
-                                <p>Machine Learning for Optics</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
-
-                    <div class="col-md-6 col-sm-12">
-                        <PeopleCard name="Fernanda Véliz">
-                            <template v-slot:imagen>
-                                <img class="max-image-size"
-                                    :src="require(`../../../public/assets/people/FernandaVeliz.jpg`)" alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>BSc Computer Science 2023</p>
-                                <p>Machine Learning for Materials</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
-
-                    <div class="col-md-6 col-sm-12">
-                        <PeopleCard name="Bastián Martínez">
-                            <template v-slot:imagen>
-                                <img class="max-image-size"
-                                    :src="require(`../../../public/assets/people/bastianMartinez.jpg`)" alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>BSc Computer Science 2024</p>
-                                <p>Machine Learning for Optics</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
-
-                    <div class="col-md-6 col-sm-12">
-                        <PeopleCard name="Felipe Osorio">
-                            <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/people/felipeosorio.jpeg`)"
-                                    alt="">
-                            </template>
-
-                            <template v-slot:contenido>
-                                <p>BSc Computer Science 2024</p>
-                                <p>USACH</p>
-                                <p>Machine Learning for Optics</p>
-                            </template>
-                        </PeopleCard>
-                    </div>
-
+                   
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Andrea Alarcón">
                             <template v-slot:imagen>
@@ -272,7 +216,7 @@
                             </template>
 
                             <template v-slot:contenido>
-                                <p>BSc Engineering Physics 2024</p>
+                                <p>BSc Engineering Physics 2025</p>
                                 <p>USACH</p>
                                 <p>Optical Device Physics</p>
                             </template>
@@ -317,6 +261,31 @@ const alumni = ref([]);
 
 const fillAlumni = () => {
     const alumniData = [
+        {
+            name: 'Bastián Martínez',
+            grade_name: 'BSc Computer Science 2024',
+            university: 'then software developer'
+        },        
+        {
+            name: 'Felipe Osorio',
+            grade_name: 'BSc Computer Science 2022',
+            university: 'then software developer'
+        },    
+        {
+            name: 'Fernanda Véliz',
+            grade_name: 'BSc Computer Science 2023',
+            university: 'then software developer'
+        },    
+        {
+            name: 'Simón Paiva',
+            grade_name: 'MSc Physics 2021-2022',
+            university: 'then PhD student at University of Montreal'
+        },
+        {
+            name: 'Mauricio Arias',
+            grade_name: 'PhD Physics 2019-2023',
+            university: 'then postdoc at Temple University'
+        },
         {
             name: 'Thulasi Bikku',
             grade_name: 'Postdoc 2021-2023',

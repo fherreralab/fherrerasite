@@ -8,8 +8,8 @@
                 <li><strong>2025</strong></li>
                
                <li>
-                   [53] F. Véliz, T. Bikku, D. Ibarra, V. Hernández, A. Garmulewicz, F. Herrera, Seaweed-Based Bioplastics: Data Mining Ingredient-Property Relations from the Scientific Literature, 
-                   DATA [In Press], 2025. <a href="https://zenodo.org/records/13927103" target="_blank">[CODE]</a>. 
+                   [53] F. Véliz, T. Bikku, D. Ibarra, V. Hernández, A. Garmulewicz, F. Herrera, <a href="https://doi.org/10.3390/data10020020">Seaweed-Based Bioplastics: Data Mining Ingredient-Property Relations from the Scientific Literature</a>, 
+                   Data 10, 20, 2025. <a href="/assets/papers/2025 Seaweed-Based Bioplastics Data Mining Ingredient–Property Relations from the Scientific Literature.pdf" target="_blank">[PDF]</a> + <a href="https://zenodo.org/records/13927103" target="_blank">[CODE]</a>. 
                </li>
                
 
@@ -37,7 +37,7 @@
                 </li>
 
                 <li>
-                    [48] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad153b">Coherent anharmonicity transfer from matter to light in the THz regime</a>, 
+                    [48] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad153b">Coherent Anharmonicity Transfer from Matter to Light in the THz Regime</a>, 
                     New J. Phys. 26, 013003, 2024. <a href="/assets/papers/2024 Coherent anharmonicity transfer from matter to light in the THz regime.pdf" target="_blank">[PDF]</a>.
                 </li>
 

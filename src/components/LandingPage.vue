@@ -6,8 +6,7 @@
             <p class="mt-3 mb-2"> <strong>Welcome to our group website!</strong> </p>
 
             <p>In the Herrera Lab, we develop theoretical concepts and computational tools to address exciting and
-                challenging
-                problems at the interface of
+                challenging problems at the interface of
                 <strong class="azulado-oscuro">
                     chemical physics, quantum optics, materials science and quantum information
                 </strong>. Find out more about our current research in the links below.
@@ -22,10 +21,13 @@
                 </div>
             </div>
 
+            
             <div>
-                <h2 class="azulado-oscuro">Funding</h2>
+                <h2 class="azulado-oscuro">Funding and Sponsors</h2>
                 <img class="img-fluid" src="../../public/assets/funding-banner.png" alt="">
             </div>
+            
+
         </template>
     </triple-columna>
 </template>
@@ -43,7 +45,7 @@ const publications = [
     {
         link: '/mof-nlo',
         image: 'mof-photon-entanglement.jpeg',
-        title: 'Metal-Organic Frameworks for Quantum Communication'
+        title: 'Metal-Organic Frameworks for Quantum Technology'
     },
     {
         link: '/cold-molecules',
