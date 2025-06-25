@@ -122,19 +122,19 @@
                
 
 
-                 <!--    <div class="col-md-6 col-sm-12">
-                        <PeopleCard name="Dr. Mauricio Arias">
+                     <div class="col-md-6 col-sm-12">
+                        <PeopleCard name="Dr. Samir Das">
                             <template v-slot:imagen>
                                 <img class="max-image-size"
-                                    :src="require(`../../../public/assets/people/mauricioArias.jpeg`)" alt="">
+                                    :src="require(`../../../public/assets/people/samirdas.jpg`)" alt="">
                             </template>
 
                             <template v-slot:contenido>
-                                <p>PhD Physics 2023</p>
-                                <p>Quantum Optics, Nanophotonics</p>
+                                <p>PhD Physics 2024</p>
+                                <p>Cold Atomic Gases, Quantum Heat Transport</p>
                             </template>
                         </PeopleCard>
-                    </div> -->
+                    </div> 
 
                 </div>
 

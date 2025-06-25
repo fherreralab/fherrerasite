@@ -8,7 +8,13 @@
                 <li><strong>2025</strong></li>
                
                 <li>
-                   [55] M. Londoño, V. C. Olaya-Agudelo, F. Herrera, J. Pérez-Ríos, <a href="https://arxiv.org/abs/2502.10555">Ultracold long-range van der Waals Rydberg trimer</a>, arXiv:2502.10555.  Comm. Phys. [in press]. 
+                   [56] A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2506.13952">Detecting zero-point fluctuations with stochastic Brownian oscillators</a>, arXiv:2506.13952, 2025.
+
+                </li>
+
+                <li>
+                   [55] M. Londoño, V. C. Olaya-Agudelo, F. Herrera, J. Pérez-Ríos, <a href="https://doi.org/10.1038/s42005-025-02162-6">Ultracold long-range van der Waals Rydberg trimer</a>, Comm. Phys. 8, 232, 2025. 
+                   <a href="/assets/papers/2025 Ultracold long-range van der Waals Rydberg trimers.pdf" target="_blank">[PDF]</a> 
                 </li>
 
                 <li>
