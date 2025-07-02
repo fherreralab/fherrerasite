@@ -211,7 +211,7 @@
                     <div class="col-md-6 col-sm-12">
                         <PeopleCard name="Andrea Alarcón">
                             <template v-slot:imagen>
-                                <img class="max-image-size" :src="require(`../../../public/assets/icon_generic.png`)"
+                                <img class="max-image-size" :src="require(`../../../public/assets/people/andreaalarcon.jpeg`)"
                                     alt="">
                             </template>
 
