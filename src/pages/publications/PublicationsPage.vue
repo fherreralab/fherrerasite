@@ -8,6 +8,11 @@
                 <li><strong>2025</strong></li>
                
                 <li>
+                   [57] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, arXiv:2509.03428, 2025.
+
+                </li>
+
+                <li>
                    [56] A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2506.13952">Detecting zero-point fluctuations with stochastic Brownian oscillators</a>, arXiv:2506.13952, 2025.
 
                 </li>
