@@ -8,13 +8,25 @@
                 <li><strong>2025</strong></li>
                
                 <li>
-                   [57] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, arXiv:2509.03428, 2025.
-
+                   [60] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, arXiv:2511.17278, 2025.
+                </li>
+                
+                <li>
+                   [59] K. Aruachan, S. Raj, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://arxiv.org/abs/2511.08725">Hybrid Atomistic-Parametric Decoherence Model
+                        for Molecular Spin Qubits</a>, arXiv:2511.08725, 2025. 
                 </li>
 
                 <li>
-                   [56] A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2506.13952">Detecting zero-point fluctuations with stochastic Brownian oscillators</a>, arXiv:2506.13952, 2025.
+                   [58] H. Haghshenas, M. Arias, A. George, A. J. Musser, F. Herrera, F. C. Spano, <a href="https://doi.org/10.1063/5.0294547">Modeling the P3HT microcavity reflectance spectrum:
+                     Introducing a partitioning scheme for treating large disordered chromophore ensembles</a>, J. Chem. Phys. 163, 164125, 2025. <strong>Selected as Editor’s Pick.</strong>
+                </li>
 
+                <li>
+                   [57] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, arXiv:2509.03428, 2025.
+                </li>
+
+                <li>
+                   [56] A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2506.13952">Detecting zero-point fluctuations with stochastic Brownian oscillators</a>, Phys. Rev. E [in press] arXiv:2506.13952, 2025.
                 </li>
 
                 <li>
