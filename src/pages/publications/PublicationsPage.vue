@@ -8,26 +8,34 @@
                 <li><strong>2025</strong></li>
                
                 <li>
-                   [60] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, arXiv:2511.17278, 2025.
+                   [61] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, arXiv:2511.17278, 2025.
                 </li>
                 
                 <li>
-                   [59] K. Aruachan, S. Raj, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://arxiv.org/abs/2511.08725">Hybrid Atomistic-Parametric Decoherence Model
+                   [60] K. Aruachan, S. Raj, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://arxiv.org/abs/2511.08725">Hybrid Atomistic-Parametric Decoherence Model
                         for Molecular Spin Qubits</a>, arXiv:2511.08725, 2025. 
                 </li>
 
                 <li>
-                   [58] H. Haghshenas, M. Arias, A. George, A. J. Musser, F. Herrera, F. C. Spano, <a href="https://doi.org/10.1063/5.0294547">Modeling the P3HT microcavity reflectance spectrum:
-                     Introducing a partitioning scheme for treating large disordered chromophore ensembles</a>, J. Chem. Phys. 163, 164125, 2025. <strong>Selected as Editor’s Pick.</strong>
+                   [59] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, arXiv:2509.03428, 2025.
                 </li>
 
                 <li>
-                   [57] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, arXiv:2509.03428, 2025.
+                   [58] T. Ishii, S. Kéna-Cohen, F. Herrera, C. Adachi, <a href="https://doi.org/10.1002/9781119783329.ch11"> Kinetic Models for Polariton Relaxation in Organic Microcavities and Comparison to Experiments</a>, Chapter 11 In Polariton Chemistry, 2025.
                 </li>
 
                 <li>
-                   [56] A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2506.13952">Detecting zero-point fluctuations with stochastic Brownian oscillators</a>, Phys. Rev. E [in press] arXiv:2506.13952, 2025.
+                   [57] H. Haghshenas, M. Arias, A. George, A. J. Musser, F. Herrera, F. C. Spano, <a href="https://doi.org/10.1063/5.0294547">Modeling the P3HT microcavity reflectance spectrum:
+                     Introducing a partitioning scheme for treating large disordered chromophore ensembles</a>, J. Chem. Phys. 163, 164125, 2025. 
+                     <a href="/assets/papers/2025 Modeling the P3HT microcavity reflectance spectrum Introducing a partitioning scheme for treating large disordered chromophore ensembles.pdf" target="_blank">[PDF]</a>. 
+                    <strong> Selected as Editor’s Pick.</strong> 
                 </li>
+
+                <li>
+                   [56] A. E. Rubio Lopez, F. Herrera, <a href="https://doi.org/10.1103/ztnx-y9gy">Detecting zero-point fluctuations with stochastic Brownian oscillators</a>, Phys. Rev. E 112, L062101, 2025.
+                    <a href="/assets/papers/2025 Detecting zero-point fluctuations with stochastic Brownian oscillators.pdf" target="_blank">[PDF]</a> 
+                </li>
+
 
                 <li>
                    [55] M. Londoño, V. C. Olaya-Agudelo, F. Herrera, J. Pérez-Ríos, <a href="https://doi.org/10.1038/s42005-025-02162-6">Ultracold long-range van der Waals Rydberg trimer</a>, Comm. Phys. 8, 232, 2025. 
@@ -37,6 +45,7 @@
                 <li>
                    [54] J. F. Triana, F. Herrera, <a href="https://doi.org/10.1063/5.0247008">Spontaneous single-molecule dissociation in infrared nanocavities</a>, 
                    J. Chem. Phys. 162, 134103, 2025. <a href="/assets/papers/2025 Spontaneous single-molecule dissociation in infrared nanocavities.pdf" target="_blank">[PDF]</a>.
+                   <strong> Selected for 2024 JCP Emerging Investigator Special Collection.</strong>
                </li>
                
 
