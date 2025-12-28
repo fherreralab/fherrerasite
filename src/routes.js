@@ -18,6 +18,7 @@ import IgnacioChi from './pages/group_news/news/farewell/IgnacioChi.vue';
 import JonathanSepulveda from './pages/group_news/news/farewell/JonathanSepulveda.vue';
 
 // Congrats
+import FelipeAppointedAdjointFacultyWaterloo from './pages/group_news/news/congrats/FelipeAppointedAdjointFacultyWaterloo.vue';
 import FelipeWinsRoyalSocietyAward from './pages/group_news/news/congrats/FelipeWinsRoyalSocietyAward.vue';
 import MqtSubmission from './pages/group_news/news/congrats/MqtSubmission.vue';
 import FelipeEditorialAdvisoryBoard from './pages/group_news/news/congrats/FelipeEditorialAdvisoryBoard.vue';
@@ -45,6 +46,7 @@ import DrFedericoHernandezJoins from './pages/group_news/news/welcome/DrFederico
 import RubenFritzJoins from './pages/group_news/news/welcome/RubenFritzJoins.vue';
 
 // Graduation
+import AndreaAlarconDefendsUndergradThesis from './pages/group_news/news/graduation/AndreaAlarconDefendsUndergradThesis.vue';
 import BastianMartinezDefendsUndergradThesis from './pages/group_news/news/graduation/BastianMartinezDefendsUndergradThesis.vue';
 import FernandaVelizDefendsUndergradThesis from './pages/group_news/news/graduation/FernandaVelizDefendsUndergradThesis.vue';
 import SimonPaivaDefendsMasterThesis from './pages/group_news/news/graduation/SimonPaivaDefendsMasterThesis.vue';
@@ -69,6 +71,24 @@ import FirstWorkshopMQT from './pages/group_news/news/events/FirstWorkshopMQT.vu
 
 export const group_news_routes = [
    
+{
+        path: '/congrats-2025-10-01-Felipe-Herrera-appointed-Ajunct-Faculty-at-University-of-Waterloo',
+        name: 'FelipeAppointedAdjointFacultyWaterloo',
+        title: 'Felipe Herrera appointed Ajunct Faculty at University of Waterloo',
+        date: "Oct 01, 2025",
+        component: FelipeAppointedAdjointFacultyWaterloo
+    },
+
+
+
+    {
+        path: '/graduation-2025-10-15-Andrea-Alarcon-successfully-defends-her-undergraduate-thesis',
+        name: 'AndreaAlarconDefendsUndergradThesis',
+        title: 'Andrea Alarcón successfully defends her undergraduate thesis',
+        date: "Oct 15, 2025",
+        component: AndreaAlarconDefendsUndergradThesis
+    },
+    
     {
         path: '/graduation-2024-04-20-Bastian-Martinez-successfully-defends-his-undergraduate-thesis',
         name: 'BastianMartinezDefendsUndergradThesis',

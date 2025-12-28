@@ -102,6 +102,10 @@
             <ul>
 
                 <li>
+                    A. Alarcón, <a href="/assets/resources/thesis-aalarcon.pdf" target="_blank"> Simulación computacional de recubrimientos antirreflejo para cristales metal-organic framework</a>, Engineering Physics (2025).
+                </li>
+
+                <li>
                     B. Martínez, <a href="/assets/resources/thesis-bmartinez.pdf" target="_blank"> Diseño Inverso de cavidades Fabry-Perot utilizando redes neuronales </a>, Computer Science (2024).
                 </li>
                 <li>
