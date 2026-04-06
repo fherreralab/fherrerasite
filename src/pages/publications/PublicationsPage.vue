@@ -5,52 +5,67 @@
 
             <ul>
                 
+                <li><strong>2026</strong></li>
+
+                 <li>
+                   [62] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2603.17269"> Engineering strong coupling with molecular coatings in optical nanocavities</a>, arXiv:2603.17269, 2026.
+                </li>
+
+                <li>
+                   [61] F. Recabal, F. Herrera, <a href="https://doi.org/10.1063/5.0319363">Lindblad theory for incoherently driven electron transport in molecular nanojunctions</a>, J. Chem. Phys. 164, 114113, 2026.
+                    <a href="/assets/papers/2026 Lindblad theory for incoherently-driven electron transport in molecular nanojunctions.pdf" target="_blank">[PDF]</a>.
+                </li>
+
+
+                <li>
+                   [60] K. Aruachan, S. Raj, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://doi.org/10.1063/5.0312242">Hybrid Atomistic-Parametric Decoherence Model
+                        for Molecular Spin Qubits</a>, J. Chem. Phys. 164, 124101, 2026. <a href="/assets/papers/2026 Hybrid Atomistic-Parametric Decoherence Model for Molecular Spin Qubits.pdf" target="_blank">[PDF]</a>.
+                        <strong>Special Collection Festschrift in honor of Jianshu Cao: Non-equilibrium kinetics and quantum dynamics </strong>
+                </li>
+
                 <li><strong>2025</strong></li>
                
                 <li>
-                   [61] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, arXiv:2511.17278, 2025.
+                   [59] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, arXiv:2511.17278, 2025.
                 </li>
                 
                 <li>
-                   [60] K. Aruachan, S. Raj, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://arxiv.org/abs/2511.08725">Hybrid Atomistic-Parametric Decoherence Model
-                        for Molecular Spin Qubits</a>, arXiv:2511.08725, 2025. 
+                   [58] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, arXiv:2509.03428, 2025.
+                </li>
+
+ 
+               
+                <li>
+                   [57] T. Ishii, S. Kéna-Cohen, F. Herrera, C. Adachi, <a href="https://doi.org/10.1002/9781119783329.ch11"> Kinetic Models for Polariton Relaxation in Organic Microcavities and Comparison to Experiments</a>, Chapter 11 In Polariton Chemistry, 2025.
                 </li>
 
                 <li>
-                   [59] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, arXiv:2509.03428, 2025.
-                </li>
-
-                <li>
-                   [58] T. Ishii, S. Kéna-Cohen, F. Herrera, C. Adachi, <a href="https://doi.org/10.1002/9781119783329.ch11"> Kinetic Models for Polariton Relaxation in Organic Microcavities and Comparison to Experiments</a>, Chapter 11 In Polariton Chemistry, 2025.
-                </li>
-
-                <li>
-                   [57] H. Haghshenas, M. Arias, A. George, A. J. Musser, F. Herrera, F. C. Spano, <a href="https://doi.org/10.1063/5.0294547">Modeling the P3HT microcavity reflectance spectrum:
+                   [56] H. Haghshenas, M. Arias, A. George, A. J. Musser, F. Herrera, F. C. Spano, <a href="https://doi.org/10.1063/5.0294547">Modeling the P3HT microcavity reflectance spectrum:
                      Introducing a partitioning scheme for treating large disordered chromophore ensembles</a>, J. Chem. Phys. 163, 164125, 2025. 
                      <a href="/assets/papers/2025 Modeling the P3HT microcavity reflectance spectrum Introducing a partitioning scheme for treating large disordered chromophore ensembles.pdf" target="_blank">[PDF]</a>. 
                     <strong> Selected as Editor’s Pick.</strong> 
                 </li>
 
                 <li>
-                   [56] A. E. Rubio Lopez, F. Herrera, <a href="https://doi.org/10.1103/ztnx-y9gy">Detecting zero-point fluctuations with stochastic Brownian oscillators</a>, Phys. Rev. E 112, L062101, 2025.
+                   [55] A. E. Rubio Lopez, F. Herrera, <a href="https://doi.org/10.1103/ztnx-y9gy">Detecting zero-point fluctuations with stochastic Brownian oscillators</a>, Phys. Rev. E 112, L062101, 2025.
                     <a href="/assets/papers/2025 Detecting zero-point fluctuations with stochastic Brownian oscillators.pdf" target="_blank">[PDF]</a> 
                 </li>
 
 
                 <li>
-                   [55] M. Londoño, V. C. Olaya-Agudelo, F. Herrera, J. Pérez-Ríos, <a href="https://doi.org/10.1038/s42005-025-02162-6">Ultracold long-range van der Waals Rydberg trimer</a>, Comm. Phys. 8, 232, 2025. 
+                   [54] M. Londoño, V. C. Olaya-Agudelo, F. Herrera, J. Pérez-Ríos, <a href="https://doi.org/10.1038/s42005-025-02162-6">Ultracold long-range van der Waals Rydberg trimer</a>, Comm. Phys. 8, 232, 2025. 
                    <a href="/assets/papers/2025 Ultracold long-range van der Waals Rydberg trimers.pdf" target="_blank">[PDF]</a> 
                 </li>
 
                 <li>
-                   [54] J. F. Triana, F. Herrera, <a href="https://doi.org/10.1063/5.0247008">Spontaneous single-molecule dissociation in infrared nanocavities</a>, 
+                   [53] J. F. Triana, F. Herrera, <a href="https://doi.org/10.1063/5.0247008">Spontaneous single-molecule dissociation in infrared nanocavities</a>, 
                    J. Chem. Phys. 162, 134103, 2025. <a href="/assets/papers/2025 Spontaneous single-molecule dissociation in infrared nanocavities.pdf" target="_blank">[PDF]</a>.
                    <strong> Selected for 2024 JCP Emerging Investigator Special Collection.</strong>
                </li>
                
 
                <li>
-                   [53] F. Véliz, T. Bikku, D. Ibarra, V. Hernández, A. Garmulewicz, F. Herrera, <a href="https://doi.org/10.3390/data10020020">Seaweed-Based Bioplastics: Data Mining Ingredient-Property Relations from the Scientific Literature</a>, 
+                   [52] F. Véliz, T. Bikku, D. Ibarra, V. Hernández, A. Garmulewicz, F. Herrera, <a href="https://doi.org/10.3390/data10020020">Seaweed-Based Bioplastics: Data Mining Ingredient-Property Relations from the Scientific Literature</a>, 
                    Data 10, 20, 2025. <a href="/assets/papers/2025 Seaweed-Based Bioplastics Data Mining Ingredient–Property Relations from the Scientific Literature.pdf" target="_blank">[PDF]</a> + <a href="https://zenodo.org/records/13927103" target="_blank">[CODE]</a>. 
                </li>
                
@@ -58,41 +73,34 @@
                 <li><strong>2024</strong></li>
                
                 <li>
-                    [52] F. Herrera, W.L. Barnes, <a href="https://doi.org/10.1098/rsta.2023.0343">Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities</a>, 
+                    [51] F. Herrera, W.L. Barnes, <a href="https://doi.org/10.1098/rsta.2023.0343">Multiple Interacting Photonic Modes in Strongly Coupled Organic Microcavities</a>, 
                      Phil. Trans. R. Soc. A. 3822, 0230343, 2024 <a href="/assets/papers/2024 Multiple interacting photonic modes in strongly coupled organic microcavities.pdf" target="_blank">[PDF]</a>
                 </li>
 
                 <li>
-                    [51] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-17-29514&id=554144">
+                    [50] S. Paiva, R.A. Fritz, S. Raj, Y.J. Colón, F. Herrera, <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-17-29514&id=554144">
                         Efficient Generation of Polarization-Entangled Photons in Metal Organic Framework Waveguides</a>, Optics Express 32, 29514, 2024. 
                         <a href="/assets/papers/2024 Efficient generation of polarization-entangled photons in metal-organic framework waveguides.pdf" target="_blank">[PDF]</a>
                 </li>
 
                 <li>
-                    [50] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c00782">Molecular Strong Coupling and 
+                    [49] K.S. Menghrajani, A.B. Vasista, W.J. Tan, P.A. Thomas, F. Herrera, W.L. Barnes, <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpclett.4c00782">Molecular Strong Coupling and 
                         Cavity Finesse</a>, J. Phys. Chem. Lett. 15, 29, 7449–7457, 2024. <a href="/assets/papers/2024 Molecular Strong Coupling and Cavity Finesse.pdf" target="_blank">[PDF]</a>
                 </li>
 
                 <li>
-                    [49] S. Raj, S. Paiva, R.A. Fritz, F. Herrera, Y.J. Colón, <a href="https://iopscience.iop.org/article/10.1088/2633-4356/ad2c96">First-Principles Screening of Metal-Organic Frameworks for Entangled Photon Pair Generation</a>, 
+                    [48] S. Raj, S. Paiva, R.A. Fritz, F. Herrera, Y.J. Colón, <a href="https://iopscience.iop.org/article/10.1088/2633-4356/ad2c96">First-Principles Screening of Metal-Organic Frameworks for Entangled Photon Pair Generation</a>, 
                      Mater. Quantum. Technol. 4 015404, 2024. <a href="/assets/papers/2024 First-principles screening of metal–organic frameworks for entangled photon pair generation.pdf" target="_blank">[PDF]</a>.
                 </li>
 
                 <li>
-                    [48] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad153b">Coherent Anharmonicity Transfer from Matter to Light in the THz Regime</a>, 
+                    [47] M. Arias, J.F. Triana, A. Delgado, F. Herrera, <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad153b">Coherent Anharmonicity Transfer from Matter to Light in the THz Regime</a>, 
                     New J. Phys. 26, 013003, 2024. <a href="/assets/papers/2024 Coherent anharmonicity transfer from matter to light in the THz regime.pdf" target="_blank">[PDF]</a>.
                 </li>
 
 
                 <li><strong>2023</strong></li>
 
-               
-
-                
-                <li>
-                    [47] F. Recabal, F. Herrera, <a href="https://arxiv.org/abs/2306.16789">Driven-Dissipative Conductance in Nanojunction Arrays: 
-                        Negative Conductance and Light-Induced Currents</a>, arXiv:2306.16789.
-                </li>
 
 
                 <li>
