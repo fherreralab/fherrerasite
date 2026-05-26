@@ -26,7 +26,7 @@
                 <li><strong>2025</strong></li>
                
                 <li>
-                   [59] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, arXiv:2511.17278, 2025.
+                   [59] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, arXiv:2511.17278, (Phys. Rev. Lett, in press) 2026.
                 </li>
                 
                 <li>
