@@ -7,28 +7,33 @@
                 
                 <li><strong>2026</strong></li>
 
+                <li>
+                   [63] F. Recabal, A. E. Rubio Lopez, J. Schachenmayer, F. Herrera, <a href="https://arxiv.org/abs/2606.00239"> Bath-induced deviations from Gibbs statistics for strongly interacting oscillators</a>, arXiv:2606.00239, 2026.
+                </li>
+
                  <li>
                    [62] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2603.17269"> Engineering strong coupling with molecular coatings in optical nanocavities</a>, arXiv:2603.17269, 2026.
                 </li>
 
                 <li>
-                   [61] F. Recabal, F. Herrera, <a href="https://doi.org/10.1063/5.0319363">Lindblad theory for incoherently driven electron transport in molecular nanojunctions</a>, J. Chem. Phys. 164, 114113, 2026.
+                   [61] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, Phys. Rev. Lett, 136, (in press) 2026.
+                </li>
+
+
+                <li>
+                   [60] F. Recabal, F. Herrera, <a href="https://doi.org/10.1063/5.0319363">Lindblad theory for incoherently driven electron transport in molecular nanojunctions</a>, J. Chem. Phys. 164, 114113, 2026.
                     <a href="/assets/papers/2026 Lindblad theory for incoherently-driven electron transport in molecular nanojunctions.pdf" target="_blank">[PDF]</a>.
                 </li>
 
 
                 <li>
-                   [60] K. Aruachan, S. Raj, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://doi.org/10.1063/5.0312242">Hybrid Atomistic-Parametric Decoherence Model
+                   [59] K. Aruachan, S. Raj, Y. J. Colón, D. Aravena, F. Herrera, <a href="https://doi.org/10.1063/5.0312242">Hybrid Atomistic-Parametric Decoherence Model
                         for Molecular Spin Qubits</a>, J. Chem. Phys. 164, 124101, 2026. <a href="/assets/papers/2026 Hybrid Atomistic-Parametric Decoherence Model for Molecular Spin Qubits.pdf" target="_blank">[PDF]</a>.
                         <strong>Special Collection Festschrift in honor of Jianshu Cao: Non-equilibrium kinetics and quantum dynamics </strong>
                 </li>
 
                 <li><strong>2025</strong></li>
-               
-                <li>
-                   [59] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, arXiv:2511.17278, (Phys. Rev. Lett, in press) 2026.
-                </li>
-                
+                                              
                 <li>
                    [58] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, arXiv:2509.03428, 2025.
                 </li>
