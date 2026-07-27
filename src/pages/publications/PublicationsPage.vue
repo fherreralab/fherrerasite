@@ -16,14 +16,16 @@
                 </li>
 
                 <li>
-                   [61] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, Phys. Rev. A (in press), 2026.
+                   [61] A. S. Rema, A. E. Rubio Lopez, F. Herrera, <a href="https://arxiv.org/abs/2509.03428">Ultrafast single-photon interference with a dipole qubit in a nanocavity</a>, Phys. Rev. A (in press), 2026. Preprint arXiv:2509.03428
                 </li>
 
                 <li>
-                   [60] J. Triana and F. Herrera, <a href="https://arxiv.org/abs/2511.17278">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, Phys. Rev. Lett, 137, 028001, 2026. 
+                   [60] J. Triana and F. Herrera, <a href="https://doi.org/10.1103/s2zc-6lxs">Enhancing Infrared Laser Dissociation of Molecules with the Electromagnetic Vacuum</a>, Phys. Rev. Lett, 137, 028001, 2026. 
                    <a href="/assets/papers/2026 Enhancing Infrared-Laser Dissociation of Molecules with the Electromagnetic Vacuum.pdf" target="_blank">[PDF]</a>.
-                   <strong>Featured news articles in <a href ="https://www.eurekalert.org/news-releases/1135129" >EurekAlert!</a>  </strong> and 
-                   <strong><a href="https://phys.org/news/2026-07-quantum-vacuum-molecular-bonds-energy.html">Phys.org</a></strong>.
+                   <strong>Featured news articles in <a href ="https://www.eurekalert.org/news-releases/1135129" >EurekAlert!</a>  </strong>, 
+                   <strong><a href="https://phys.org/news/2026-07-quantum-vacuum-molecular-bonds-energy.html">Phys.org</a></strong>, 
+                   <strong><a href="https://www.earth.com/news/this-quantum-breakthrough-could-lower-the-energy-cost-of-carbon-capture/">Earth.com</a></strong>, and
+                   <strong><a href="https://www.noticiasdelaciencia.es/quantum-vacuum-molecular-bonds-energy/">Noticias de la Ciencia</a></strong>.
                 </li>
 
                 <li>
